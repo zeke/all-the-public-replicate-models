@@ -13,5 +13,8 @@
   "scripts": {
     "build": "node script/build.js",
     "test": "mocha test.js"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
