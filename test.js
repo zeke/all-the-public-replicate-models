@@ -6,8 +6,8 @@ describe('models module', () => {
     expect(models).to.be.an('array');
   });
 
-  it('should have at least 500 objects', () => {
-    expect(models).to.have.lengthOf.at.least(500);
+  it('should have at least 1000 models', () => {
+    expect(models).to.have.lengthOf.at.least(1000);
   });
 
   describe('first object in the array', () => {
