@@ -1,8 +1,6 @@
 # all-the-public-replicate-models
 
-An offline database of metadata for all the public models on Replicate
-
-It's all stuffed in a JSON file that's about 17MB.
+Metadata for all the public models on Replicate, bundled up into an npm package.
 
 ## Installation
 
