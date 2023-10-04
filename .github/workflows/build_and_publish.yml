@@ -43,6 +43,6 @@ jobs:
         git push
 
     - name: Publish to npm
-      run: npx np minor --no-2fa --yolo
+      run: npx np@latest minor --no-2fa --yolo
       env:
         NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
