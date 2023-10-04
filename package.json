@@ -1,0 +1,14 @@
+{
+  "name": "all-the-public-replicate-models",
+  "description": "An offline database of metadata for all the public models on Replicate",
+  "version": "1.0.0",
+  "devDependencies": {
+    "lodash-es": "^4.17.21",
+    "replicate": "github:replicate/replicate-javascript#add-method-for-listing-public-models"
+  },
+  "type": "module",
+  "main": "index.mjs",
+  "scripts": {
+    "build": "node script/build.js > models.json"
+  }
+}
