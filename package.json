@@ -10,6 +10,10 @@
   },
   "type": "module",
   "main": "index.mjs",
+  "exports": {
+    ".": "./index.mjs",
+    "./lite": "./lite.mjs"
+  },
   "scripts": {
     "build": "node script/build.js",
     "test": "mocha test.js"
