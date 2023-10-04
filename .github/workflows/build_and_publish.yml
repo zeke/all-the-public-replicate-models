@@ -31,6 +31,9 @@ jobs:
       run: |
         git diff --quiet && exit 0 || echo "Changes detected!"
 
+    - name: Run Tests
+      run: npm test
+
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
