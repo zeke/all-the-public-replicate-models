@@ -23,9 +23,14 @@ jobs:
 
     - name: Build
       run: npm run build
+      env:
+        REPLICATE_API_TOKEN: ${{ secrets.REPLICATE_API_TOKEN }}
 
-    # If the build command modifies some files (e.g., generating build artifacts),
-    # then commit and push those changes.
+
+    - name: Check for changes
+      run: |
+        git diff --quiet && exit 0 || echo "Changes detected!"
+
     - name: Commit changes
       run: |
         git config --local user.email "action@github.com"
