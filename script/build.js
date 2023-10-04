@@ -1,6 +1,7 @@
 import Replicate from "replicate";
 const replicate = new Replicate();
 import {unset} from "lodash-es";
+import fs from "fs";
 
 async function main () {
   console.error("Fetching all public models from Replicate...")
@@ -17,8 +18,20 @@ async function main () {
     unset(models[i], 'default_example.webhook_completed')
     unset(models[i], 'latest_version.openapi_schema.paths')
   }
+  
+  const lite = models.map(model => {
+    return {
+      url: model.url,
+      owner: model.owner,
+      name: model.name,
+      description: model.description,
+      run_count: model.run_count,
+      cover_image_url: model.cover_image_url
+    }
+  });
 
-  process.stdout.write(JSON.stringify(models, null, 2))
+  fs.writeFileSync('models.json', JSON.stringify(models, null, 2))
+  fs.writeFileSync('models-lite.json', JSON.stringify(lite, null, 2))
 }
 
 main()

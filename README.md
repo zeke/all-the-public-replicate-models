@@ -10,10 +10,18 @@ npm install all-the-public-replicate-models
 
 ## Usage
 
-Basic usage:
+Full-bodied usage (all the metadata, ~17MB)
 
 ```js
 import models from 'all-the-public-replicate-models'
+
+console.log(models)
+```
+
+Lite usage (just the basic metadata, ~375K):
+
+```js
+import models from 'all-the-public-replicate-models/lite'
 
 console.log(models)
 ```

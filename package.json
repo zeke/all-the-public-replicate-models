@@ -11,7 +11,7 @@
   "type": "module",
   "main": "index.mjs",
   "scripts": {
-    "build": "node script/build.js > models.json",
+    "build": "node script/build.js",
     "test": "mocha test.js"
   }
 }
