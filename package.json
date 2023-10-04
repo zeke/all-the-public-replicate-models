@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "devDependencies": {
     "lodash-es": "^4.17.21",
+    "np": "^8.0.4",
     "replicate": "github:replicate/replicate-javascript#add-method-for-listing-public-models"
   },
   "type": "module",

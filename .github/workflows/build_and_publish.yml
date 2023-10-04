@@ -1,0 +1,40 @@
+name: Build and Publish
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # This will run the action daily at midnight.
+  workflow_dispatch: # This allows for manual triggering of the workflow.
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+
+    - name: Install Dependencies
+      run: npm ci
+
+    - name: Build
+      run: npm run build
+
+    # If the build command modifies some files (e.g., generating build artifacts),
+    # then commit and push those changes.
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git commit -m "Build artifacts" || echo "No changes to commit"
+        git push
+
+    - name: Publish to npm
+      run: npx np minor --no-2fa --yolo
+      env:
+        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
