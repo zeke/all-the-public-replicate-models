@@ -35,17 +35,24 @@ jobs:
     - name: Run Tests
       run: npm test
 
-    - name: Publish to npm
-      run: npm version minor --force && npm publish
-      env:
-        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-
-    - name: Commit changes to git
+    - name: Commit changes before npm publish
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add -A
         git commit -m "Build artifacts" || echo "No changes to commit"
+        git push
+
+
+    - name: Publish to npm
+      run: npm version minor --force && npm publish
+      env:
+        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+    - name: Commit changes after npm publish
+      run: |
+        git add -A
+        git commit -m "Bump version in package.json" || echo "No changes to commit"
         git push
 
 
