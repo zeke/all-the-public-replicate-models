@@ -17,6 +17,7 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: '18'
+        registry-url: 'https://registry.npmjs.org'
 
     - name: Install Dependencies
       run: npm ci
@@ -34,7 +35,12 @@ jobs:
     - name: Run Tests
       run: npm test
 
-    - name: Commit changes
+    - name: Publish to npm
+      run: npm version minor --force && npm publish
+      env:
+        NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+    - name: Commit changes to git
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
@@ -42,7 +48,4 @@ jobs:
         git commit -m "Build artifacts" || echo "No changes to commit"
         git push
 
-    # - name: Publish to npm
-    #   run: npx np@latest minor --no-2fa --yolo
-    #   env:
-    #     NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
