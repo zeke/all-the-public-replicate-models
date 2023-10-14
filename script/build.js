@@ -30,6 +30,8 @@ async function main () {
     }
   });
 
+  // save old data for comparison in stats script
+  fs.copyFileSync('models.json', 'models.old.json');
   fs.writeFileSync('models.json', JSON.stringify(models, null, 2))
   fs.writeFileSync('models-lite.json', JSON.stringify(lite, null, 2))
 }
