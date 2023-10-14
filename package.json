@@ -6,7 +6,7 @@
     "chai": "^4.3.10",
     "lodash-es": "^4.17.21",
     "mocha": "^10.2.0",
-    "replicate": "github:replicate/replicate-javascript#add-method-for-listing-public-models"
+    "replicate": "^0.20.1"
   },
   "type": "module",
   "main": "index.mjs",
