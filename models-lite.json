@@ -4,7 +4,7 @@
     "owner": "nateraw",
     "name": "mistral-7b-openorca",
     "description": "Mistral-7B-v0.1 fine tuned for chat with the OpenOrca dataset.",
-    "run_count": 619,
+    "run_count": 687,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/882c64df-8036-4d45-bab9-151a7c2f9350/orcas.png"
   },
   {
@@ -12,7 +12,7 @@
     "owner": "lucataco",
     "name": "comfyui-sdxl-txt2img",
     "description": "ComfyUI setup to run SDXL text2img",
-    "run_count": 5,
+    "run_count": 19,
     "cover_image_url": "https://pbxt.replicate.delivery/0u6ragu0hT45Gpo7d2cYzCvl7BdKee7emL4HDld4DZOlfa3GB/out-9.png"
   },
   {
@@ -20,7 +20,7 @@
     "owner": "tim1224",
     "name": "kim_jung_gi",
     "description": "Kim Jung Gi style drawing",
-    "run_count": 4,
+    "run_count": 10,
     "cover_image_url": "https://pbxt.replicate.delivery/v84ZHzr9EaZyAZVLQdGsVOaTr7vfaJMHEiLGYkaLNyHmo62IA/out-0.png"
   },
   {
@@ -36,7 +36,7 @@
     "owner": "fofr",
     "name": "musicgen-kenji-kawai",
     "description": null,
-    "run_count": 6,
+    "run_count": 7,
     "cover_image_url": null
   },
   {
@@ -44,7 +44,7 @@
     "owner": "joehoover",
     "name": "zephyr-7b-alpha",
     "description": "A high-performing language model trained to act as a helpful assistant",
-    "run_count": 26,
+    "run_count": 57,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/84f4d8b1-791c-4ea8-a380-a9c4aa8bc64e/replicate-prediction-z5kvthdbfone.png"
   },
   {
@@ -52,7 +52,7 @@
     "owner": "sakemin",
     "name": "musicgen-fine-tuner",
     "description": "Fine-tune MusicGen small, medium and melody models",
-    "run_count": 85,
+    "run_count": 88,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/c5f7a40f-789c-4750-99ef-e9df25db2581/274288158-79e6c87d-e40a-4dc9-8545.png"
   },
   {
@@ -76,7 +76,7 @@
     "owner": "cjwbw",
     "name": "daclip-uir",
     "description": "Controlling Vision-Language Models for Universal Image Restoration",
-    "run_count": 101,
+    "run_count": 114,
     "cover_image_url": "https://replicate.delivery/pbxt/QOvoyhpeeblElE6kkx1UPC0kF9Gyifr8e8WfnDkaeKi7anYbE/out.png"
   },
   {
@@ -84,7 +84,7 @@
     "owner": "tonyadastra",
     "name": "qart",
     "description": "Create beautiful, artistic QR codes with natural language",
-    "run_count": 151923,
+    "run_count": 152549,
     "cover_image_url": "https://replicate.delivery/pbxt/QDzTdKJwAs6gMRFwnbg4JvedrATrNwCEhnwt2PPSrc0LgVuIA/out-ff26210b.png"
   },
   {
@@ -100,7 +100,7 @@
     "owner": "sakemin",
     "name": "musicgen-chord",
     "description": "MusicGen Chord is the modified version of Meta's MusicGen, that can generate music based on audio-based chord conditions or text-based chord conditions.",
-    "run_count": 59,
+    "run_count": 71,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/ceeee1b9-502d-4bd2-bd68-e824dfcd1a89/274288174-3bf1f386-d2fe-4a8d-8927.png"
   },
   {
@@ -108,7 +108,7 @@
     "owner": "zsxkib",
     "name": "diffbir",
     "description": "✨DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior",
-    "run_count": 339,
+    "run_count": 355,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/dd74468b-0290-43ab-887b-2a2c4f5ad3e0/Face_DiffBIR.png"
   },
   {
@@ -124,7 +124,7 @@
     "owner": "alaradirik",
     "name": "dreamgaussian",
     "description": "DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation",
-    "run_count": 229,
+    "run_count": 235,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/a9c628ce-3f8c-433c-86e4-6e7eaeec0c18/output.1.gif"
   },
   {
@@ -132,7 +132,7 @@
     "owner": "stability-ai",
     "name": "sdxl",
     "description": "A text-to-image generative AI model that creates beautiful images",
-    "run_count": 9992157,
+    "run_count": 10053340,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/61004930-fb88-4e09-9bd4-74fd8b4aa677/sdxl_cover.png"
   },
   {
@@ -140,7 +140,7 @@
     "owner": "lucataco",
     "name": "hotshot-xl",
     "description": "😊 Hotshot-XL is an AI text-to-GIF model trained to work alongside Stable Diffusion XL",
-    "run_count": 5137,
+    "run_count": 5303,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/ed1749eb-87a6-45a9-bff3-cac89b7df97a/output.gif"
   },
   {
@@ -164,7 +164,7 @@
     "owner": "jd7h",
     "name": "propainter",
     "description": "Object removal, video completion and video outpainting",
-    "run_count": 151,
+    "run_count": 154,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/56203cc6-8680-4a32-a094-8c49e8f25e28/propainter.png"
   },
   {
@@ -188,7 +188,7 @@
     "owner": "yorickvp",
     "name": "llava-13b",
     "description": "Visual instruction tuning towards large language and vision models with GPT-4 level capabilities",
-    "run_count": 10753,
+    "run_count": 10910,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/2c5dbfff-209d-4ab5-a294-b3e5e56105c0/dalle3.jpg"
   },
   {
@@ -196,7 +196,7 @@
     "owner": "konieshadow",
     "name": "fooocus-api",
     "description": "Third party Fooocus replicate model",
-    "run_count": 2266,
+    "run_count": 2317,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/d613d585-af53-473c-b21a-b3033436f393/elf.png"
   },
   {
@@ -204,7 +204,7 @@
     "owner": "mrharispe",
     "name": "visual-library",
     "description": null,
-    "run_count": 80,
+    "run_count": 84,
     "cover_image_url": "https://pbxt.replicate.delivery/b97JA3cnDzqtKFW0t9O3vvAwGNoAOTRXRAFFBJEuTzF99NbE/out-0.png"
   },
   {
@@ -212,7 +212,7 @@
     "owner": "anotherjesse",
     "name": "sdxl-recur",
     "description": "explore img2img zooming sdxl",
-    "run_count": 498,
+    "run_count": 500,
     "cover_image_url": "https://replicate.delivery/pbxt/GaxoRfU77xXBGS4hZEFfYszIy5WOpHAzszZc5JyDUn4ndxsRA/0019.jpg"
   },
   {
@@ -236,7 +236,7 @@
     "owner": "hilongjw",
     "name": "sdxl-zeke",
     "description": null,
-    "run_count": 45,
+    "run_count": 92,
     "cover_image_url": "https://replicate.delivery/pbxt/rJPgftfQDltFW0O3qeqEJvqF3Tp3JqVLyzpEtfT1BRepffS2IA/out-0.png"
   },
   {
@@ -244,7 +244,7 @@
     "owner": "catacolabs",
     "name": "yearbook-pics",
     "description": "Turn your selfies into a 90's yearbook photo in seconds",
-    "run_count": 3610,
+    "run_count": 3834,
     "cover_image_url": "https://pbxt.replicate.delivery/K58Bk4KvfwSCIqEUirnpLdh1PtFcXa3WXIbNhYvKqf2EmhsRA/1696884612.jpg"
   },
   {
@@ -252,7 +252,7 @@
     "owner": "pnickolas1",
     "name": "sdxl-dreambooth-loras-dev",
     "description": null,
-    "run_count": 1549,
+    "run_count": 1551,
     "cover_image_url": "https://replicate.delivery/pbxt/ADg1vUiCNIbIBhvxfhEcIfrfdmfpNwZ6bzuEeyvsbK9glCbMC/out-0.png"
   },
   {
@@ -260,7 +260,7 @@
     "owner": "cjwbw",
     "name": "instructcv",
     "description": "Instruction tuned text-to-image diffusion models as vision generalists",
-    "run_count": 102,
+    "run_count": 104,
     "cover_image_url": "https://replicate.delivery/pbxt/7B09JVo3qwrILNlXQolxuMmYzbGTRMfJmOenmIK6lvjjhdsRA/out.png"
   },
   {
@@ -276,7 +276,7 @@
     "owner": "zsxkib",
     "name": "st-mfnet",
     "description": "📽️ Increase Framerate 🎬 ST-MFNet: A Spatio-Temporal Multi-Flow Network for Frame Interpolation",
-    "run_count": 579,
+    "run_count": 588,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/62abc5c1-849d-4291-b1e0-255854277aea/output.gif"
   },
   {
@@ -324,7 +324,7 @@
     "owner": "jakedahn",
     "name": "sdxl-isometric-geology",
     "description": "sdxl-isometric-geology is an SDXL fine-tune that's been trained with cool USGS isometric block and fence diagrams from the 1950s and 1960s.",
-    "run_count": 262,
+    "run_count": 265,
     "cover_image_url": "https://replicate.delivery/pbxt/CoMBej9GOtyNKqyDHb0fsNSdABpTzOszpjltZGvHsbqif8XjA/out-0.png"
   },
   {
@@ -332,7 +332,7 @@
     "owner": "lucataco",
     "name": "sadtalker",
     "description": "Stylized Audio-Driven Single Image Talking Face Animation",
-    "run_count": 642,
+    "run_count": 649,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/b2408f7c-e728-40b0-bf1e-7082aba5cbf1/sadtalker.gif"
   },
   {
@@ -356,7 +356,7 @@
     "owner": "fofr",
     "name": "sdxl-enid",
     "description": null,
-    "run_count": 522,
+    "run_count": 524,
     "cover_image_url": "https://replicate.delivery/pbxt/iNHmVkZtQjYZJdUrZi6YZCg0aofyOkjmUWKqzJ1NlSaojw1IA/out-0.png"
   },
   {
@@ -364,7 +364,7 @@
     "owner": "cloneofsimo",
     "name": "hotshot-xl-lora-controlnet",
     "description": "Text-to-gif using SDXL, with controlnet and lora support",
-    "run_count": 371,
+    "run_count": 401,
     "cover_image_url": "https://replicate.delivery/pbxt/RU9CI33SMCKMFBFQplELLexGPsOGNIU42VpauosBZZLkhW2IA/tmp.gif"
   },
   {
@@ -372,7 +372,7 @@
     "owner": "charlesmccarthy",
     "name": "hotshot-a40",
     "description": "Hotshot XL using SDXL for generating one second clips of high quality! Running on a40 Made by the greats at hotshot.co and brought to you by your friends at FullJourney! Thanks to LucaTaco for the MVP!",
-    "run_count": 1226,
+    "run_count": 1227,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/6edd75a5-37f4-4029-8467-2a7fb8fc97aa/mixed_0.gif"
   },
   {
@@ -380,7 +380,7 @@
     "owner": "adventurepizza",
     "name": "genshin-impact",
     "description": "SDXL fine tuned on Genshin Impact landscape by imageapp.xyz",
-    "run_count": 146,
+    "run_count": 172,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/e8900d19-415e-4ca7-85ec-2d4e23c9143d/replicate-prediction-eab5rndbl3wy.png"
   },
   {
@@ -388,7 +388,7 @@
     "owner": "zsxkib",
     "name": "animate-diff",
     "description": "🎨 AnimateDiff (w/ MotionLoRAs for Panning, Zooming, etc): Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning",
-    "run_count": 8697,
+    "run_count": 8760,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/336d5c4e-4fd1-415a-a3f7-4a40fa5bdf2b/a_middle-aged_woman_utilizing__zo.gif"
   },
   {
@@ -412,7 +412,7 @@
     "owner": "lqhl",
     "name": "realesrgan",
     "description": "Image restoration and face enhancement",
-    "run_count": 1040,
+    "run_count": 1045,
     "cover_image_url": "https://pbxt.replicate.delivery/PIllGCXv2YKuHlshQfziTe1njFfxUk6cUkJOwTTKKf3MyJtGB/out.png"
   },
   {
@@ -428,7 +428,7 @@
     "owner": "piyushk52",
     "name": "ad_interpolation",
     "description": null,
-    "run_count": 381,
+    "run_count": 385,
     "cover_image_url": "https://replicate.delivery/pbxt/68sk538ukX4IApgk9XRbgIBezJ22XH1kaqpL7aNkvPqvOj1IA/Enabled_00003_.gif"
   },
   {
@@ -444,7 +444,7 @@
     "owner": "bemothhyde",
     "name": "sdxl_overwatch",
     "description": "This fine-tuned SDXL model is trained with Overwatch heroes images",
-    "run_count": 928,
+    "run_count": 954,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/d66065ec-d93a-455c-a99b-081f477caa59/out-0_1.png"
   },
   {
@@ -500,7 +500,7 @@
     "owner": "fofr",
     "name": "sdxl-deep-down",
     "description": "An SDXL fine-tuned on Dalle3 underwater imagery",
-    "run_count": 407,
+    "run_count": 408,
     "cover_image_url": "https://pbxt.replicate.delivery/HGs5W9Q8LWp7AZbs4VgJVrtVZ9lwZbLep3UmZj1RCmeFp0qRA/out-0.png"
   },
   {
@@ -516,7 +516,7 @@
     "owner": "alaradirik",
     "name": "inst-inpaint",
     "description": "Inst-Inpaint: Instructing to Remove Objects with Diffusion Models",
-    "run_count": 85,
+    "run_count": 86,
     "cover_image_url": "https://pbxt.replicate.delivery/djFvWif7hLwqDieF1nSiaohu8g4CxEi8ja7tGINk9fcVhdVjA/output.png"
   },
   {
@@ -532,7 +532,7 @@
     "owner": "lucataco",
     "name": "sdxl-controlnet",
     "description": "SDXL ControlNet - Canny",
-    "run_count": 27808,
+    "run_count": 27923,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/7edf6f87-bd0d-4a4f-9e11-d944bb07a3ea/output.png"
   },
   {
@@ -556,7 +556,7 @@
     "owner": "alaradirik",
     "name": "t2i-adapter-sdxl-openpose",
     "description": "Modify images using human pose",
-    "run_count": 542,
+    "run_count": 545,
     "cover_image_url": "https://pbxt.replicate.delivery/nuE2A9YWRkLaN1ptkgad1JeHtYJwUWAt6p7Bie0fYDcNlCVjA/out-0.png"
   },
   {
@@ -564,7 +564,7 @@
     "owner": "alaradirik",
     "name": "t2i-adapter-sdxl-lineart",
     "description": "Modify images using line art",
-    "run_count": 729,
+    "run_count": 790,
     "cover_image_url": "https://replicate.delivery/pbxt/f8xV2WI2WdzpdCqOdgdBF4p8AI5LNEPTQ5WWjn62yUzLNQ1IA/out-0.png"
   },
   {
@@ -572,7 +572,7 @@
     "owner": "alaradirik",
     "name": "t2i-adapter-sdxl-canny",
     "description": "Modify images using canny edges",
-    "run_count": 1539,
+    "run_count": 1549,
     "cover_image_url": "https://replicate.delivery/pbxt/ALPdmbV71P7OAx6kEoiG1vS7H4KBofifF1jGII7g73gZ4gqRA/out-0.png"
   },
   {
@@ -580,7 +580,7 @@
     "owner": "alaradirik",
     "name": "t2i-adapter-sdxl-sketch",
     "description": "Modify images using sketches",
-    "run_count": 983,
+    "run_count": 992,
     "cover_image_url": "https://pbxt.replicate.delivery/gK44xIViC3JgK52HohYGBndUX6iXBI54kTggoaxxBfcScQ1IA/out-0.png"
   },
   {
@@ -588,7 +588,7 @@
     "owner": "alaradirik",
     "name": "t2i-adapter-sdxl-depth-midas",
     "description": "Modify images using depth maps",
-    "run_count": 1013,
+    "run_count": 1033,
     "cover_image_url": "https://pbxt.replicate.delivery/jR6ZtGztysLkJxhSeGHWu25iu9GfopTWIAeb6GSdr5K8xBVjA/out-0.png"
   },
   {
@@ -620,7 +620,7 @@
     "owner": "andreasjansson",
     "name": "blip-2",
     "description": "Answers questions about images",
-    "run_count": 9740473,
+    "run_count": 9745182,
     "cover_image_url": "https://replicate.delivery/pbxt/IJEPmgAlL2zNBNDoRRKFegTEcxnlRhoQxlNjPHSZEy0pSIKn/gg_bridge.jpeg"
   },
   {
@@ -628,7 +628,7 @@
     "owner": "brawnyai",
     "name": "balenciaga-men-2023-alpha",
     "description": "BrawnyAi's testing new SDXL training capabilities",
-    "run_count": 139,
+    "run_count": 143,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/1d12d82a-1ab7-4e01-8c68-16df126e8429/replicate-prediction-gy2i75lbtauh.png"
   },
   {
@@ -636,7 +636,7 @@
     "owner": "cjwbw",
     "name": "internlm-xcomposer",
     "description": "Advanced text-image comprehension and composition based on InternLM",
-    "run_count": 143899,
+    "run_count": 143971,
     "cover_image_url": "https://replicate.delivery/pbxt/JcqDxAZJWep7WsZdWM0gc6Ead2ie0YDEXyemc9HXogSdpsOM/out-0%20(1).png"
   },
   {
@@ -692,7 +692,7 @@
     "owner": "xrunda",
     "name": "hello",
     "description": "Take a video and replace the face in it with a face of your choice. You only need one image of the desired face. No dataset, no training.",
-    "run_count": 948,
+    "run_count": 967,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/82d951e4-4664-449f-9b1c-ca1329b7446b/guu2.png"
   },
   {
@@ -732,7 +732,7 @@
     "owner": "prompthunt",
     "name": "dreambooth-batch-pose",
     "description": "batch inference for dreambooth trainings including openpose",
-    "run_count": 1549,
+    "run_count": 1553,
     "cover_image_url": "https://pbxt.replicate.delivery/MQBqS52AswZyC1dv9khqANO1k1yZ3rraJKyqrTZ1ex8JeQpRA/Image-31-0.png"
   },
   {
@@ -740,7 +740,7 @@
     "owner": "catacolabs",
     "name": "cartoonify",
     "description": "Turn your image into a cartoon",
-    "run_count": 1534,
+    "run_count": 1544,
     "cover_image_url": "https://pbxt.replicate.delivery/65PPr5heBJQnOCN3owkapbr91J7Bai642X9t46faXcKXSWpRA/output.png"
   },
   {
@@ -748,7 +748,7 @@
     "owner": "adventurepizza",
     "name": "minimalist-design",
     "description": "SDXL fine tuned on minimalist design by imageapp.xyz",
-    "run_count": 337,
+    "run_count": 363,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/b25bdac8-1a03-4b40-b03b-7ff4efdc2163/replicate-prediction-r72aeidbqk7h.png"
   },
   {
@@ -756,7 +756,7 @@
     "owner": "mistralai",
     "name": "mistral-7b-v0.1",
     "description": "A 7 billion parameter language model from Mistral.",
-    "run_count": 918,
+    "run_count": 920,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/c56ddfb4-2193-4a65-862b-c274da78f07d/mistral7b_image2.jpeg"
   },
   {
@@ -764,7 +764,7 @@
     "owner": "mistralai",
     "name": "mistral-7b-instruct-v0.1",
     "description": "An instruction-tuned 7 billion parameter language model from Mistral",
-    "run_count": 13627,
+    "run_count": 13695,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/9df9f2b0-13f9-4c19-beb9-9f258928af4e/mistral7b_image1.jpeg"
   },
   {
@@ -780,7 +780,7 @@
     "owner": "meta",
     "name": "codellama-13b-instruct",
     "description": "A 13 billion parameter Llama tuned for coding and conversation",
-    "run_count": 9675,
+    "run_count": 9729,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/88e08650-ebbe-4440-9dbd-c790580ac548/medium-1.png"
   },
   {
@@ -788,7 +788,7 @@
     "owner": "meta",
     "name": "codellama-7b-instruct",
     "description": "A 7 billion parameter Llama tuned for coding and conversation",
-    "run_count": 11320,
+    "run_count": 11353,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/f729aa1f-e9a9-463f-b6b0-756593ca4f1a/small-6.png"
   },
   {
@@ -796,7 +796,7 @@
     "owner": "meta",
     "name": "codellama-34b-python",
     "description": "A 34 billion parameter Llama tuned for coding with Python",
-    "run_count": 885,
+    "run_count": 886,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/648fce8c-5ec5-48dd-bb40-4d6f0030a77a/large-1.png"
   },
   {
@@ -812,7 +812,7 @@
     "owner": "meta",
     "name": "codellama-7b-python",
     "description": "A 7 billion parameter Llama tuned for coding with Python",
-    "run_count": 348,
+    "run_count": 349,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/5cee6b49-1f78-447a-97cd-121feb18cbb0/small-4.png"
   },
   {
@@ -828,7 +828,7 @@
     "owner": "meta",
     "name": "codellama-13b",
     "description": "A 13 billion parameter Llama tuned for code completion",
-    "run_count": 60393,
+    "run_count": 60732,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/8fe11d1b-9365-4631-875f-6ca39aaf7b99/medium-4.png"
   },
   {
@@ -836,7 +836,7 @@
     "owner": "meta",
     "name": "codellama-7b",
     "description": "A 7 billion parameter Llama tuned for coding and conversation",
-    "run_count": 6884,
+    "run_count": 6917,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/19000ca4-fd91-40f2-86cc-41ca62d1ce83/small-4.png"
   },
   {
@@ -868,7 +868,7 @@
     "owner": "wolverinn",
     "name": "background-diffusers",
     "description": "not as good as https://replicate.com/wolverinn/realistic-background",
-    "run_count": 187,
+    "run_count": 188,
     "cover_image_url": "https://replicate.delivery/pbxt/ZfDRYJrg2PVWZaCYQvK0EXE5McIx2f1dC4bYVQiNpez3NnRjA/d2919cd6-5e07-11ee-b342-6e77174c63e7.png"
   },
   {
@@ -940,7 +940,7 @@
     "owner": "nandycc",
     "name": "sdxl-mascot-avatars",
     "description": "Fine tuned to generate cute mascot avatars, by aistartupkit.com",
-    "run_count": 1113,
+    "run_count": 1189,
     "cover_image_url": "https://pbxt.replicate.delivery/8e3k5FLbGiw2bankhv6hI4gimHk6d3SuMEzRFqg7xnSDbO0IA/out-0.png"
   },
   {
@@ -964,7 +964,7 @@
     "owner": "jamesliuzx",
     "name": "manga",
     "description": null,
-    "run_count": 360,
+    "run_count": 394,
     "cover_image_url": "https://replicate.delivery/pbxt/AeAnfMrWMLuYGUf8T2fpyyXjHEyoh2EueaY0LXDDEaJeEYIaE/out-0.png"
   },
   {
@@ -1012,7 +1012,7 @@
     "owner": "alexgenovese",
     "name": "test-endpoint",
     "description": null,
-    "run_count": 998,
+    "run_count": 1001,
     "cover_image_url": "https://replicate.delivery/pbxt/nuOfFs3YzoWbAavGUQ4kB1m50hvGuXplffehCLuKY5djLobGB/out-0.png"
   },
   {
@@ -1060,7 +1060,7 @@
     "owner": "sfarrowgr",
     "name": "real-esrgan-xxl-images",
     "description": "Upscales images by a lot.",
-    "run_count": 231,
+    "run_count": 234,
     "cover_image_url": "https://pbxt.replicate.delivery/vnXARve6s2yHJyoAvWM5AT2p1YTJZoiwRZUzvpDczhsm70zIA/output.png"
   },
   {
@@ -1068,7 +1068,7 @@
     "owner": "daanelson",
     "name": "speedy-sdxl-test",
     "description": "SDXL, but faster",
-    "run_count": 2181,
+    "run_count": 2194,
     "cover_image_url": "https://pbxt.replicate.delivery/gmWC3mxkSYpuKNtMOoVW3QgeEVn9SrGpmmeiI0Mg0oiTxrmRA/out-0.png"
   },
   {
@@ -1092,7 +1092,7 @@
     "owner": "lucataco",
     "name": "animate-diff",
     "description": "Animate Your Personalized Text-to-Image Diffusion Models",
-    "run_count": 90813,
+    "run_count": 90894,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/d63d3c3b-4d73-4d27-b5b0-6b6fb4def277/anime-girl-pink.gif"
   },
   {
@@ -1100,7 +1100,7 @@
     "owner": "lucataco",
     "name": "illusion-diffusion-hq",
     "description": "Monster Labs QrCode ControlNet on top of SD Realistic Vision v5.1",
-    "run_count": 128300,
+    "run_count": 128924,
     "cover_image_url": "https://replicate.delivery/pbxt/HPJuktTvnJojD94PbrmeDWHcgmHfxLc5bOK7XlLFUSeB1vOjA/output-0.png"
   },
   {
@@ -1116,7 +1116,7 @@
     "owner": "gymdreams8",
     "name": "gdmjp2",
     "description": "Paintings in the style of selected artists with weights, from the Construction Series of GymDreams8.",
-    "run_count": 235,
+    "run_count": 238,
     "cover_image_url": "https://pbxt.replicate.delivery/htajOo4vCtojIZIsXBXG8tUUm6O3cohw128ZE0fkzHtOCrzIA/out-0.png"
   },
   {
@@ -1140,7 +1140,7 @@
     "owner": "decaid-studio",
     "name": "fortnite",
     "description": null,
-    "run_count": 156,
+    "run_count": 157,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/9d74ce9d-184e-4b66-bd6f-e786e72d3c7d/ab94i3q4agk21-3.png"
   },
   {
@@ -1276,7 +1276,7 @@
     "owner": "aussielabs",
     "name": "iblend",
     "description": null,
-    "run_count": 4645,
+    "run_count": 4670,
     "cover_image_url": "https://replicate.delivery/pbxt/MpGd63Ih7SKIMZKLKPkKe5Rc1xFqy7g0xM4K03c5wumnpemRA/out-0.png"
   },
   {
@@ -1284,7 +1284,7 @@
     "owner": "genkernel",
     "name": "headshot-public",
     "description": "Just an experiment. Nothing new here.",
-    "run_count": 480,
+    "run_count": 489,
     "cover_image_url": "https://pbxt.replicate.delivery/JpjyaecGjUXuda8aozfxD7zGf20gFOkx0lVuRIrjxiiQUsNjA/out-0.png"
   },
   {
@@ -1300,7 +1300,7 @@
     "owner": "cjwbw",
     "name": "idefics",
     "description": "Open-access reproduction of large visual language model Flamingo",
-    "run_count": 445,
+    "run_count": 446,
     "cover_image_url": "https://replicate.delivery/pbxt/JZLrEi8rmF5aqLeg0iney67r2dPhCcGudYNedSLuHa0chpqk/image%20(1).png"
   },
   {
@@ -1356,7 +1356,7 @@
     "owner": "nateraw",
     "name": "audio-super-resolution",
     "description": "AudioSR: Versatile Audio Super-resolution at Scale",
-    "run_count": 4519,
+    "run_count": 4557,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/6bc4e480-6695-451b-940d-48a3b83a1356/replicate-prediction-jvi5xvlbg4v4.png"
   },
   {
@@ -1412,7 +1412,7 @@
     "owner": "charlesmccarthy",
     "name": "blend-images",
     "description": "High quality image blending using Kandinsky 2.2 blending pipeline brought to you by your best friends at FullJourney.AI :)",
-    "run_count": 4097,
+    "run_count": 4103,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/556e1d38-2b67-419e-890f-f3b9aba392e9/Screenshot_2023-09-19_at_1.14.58_.png"
   },
   {
@@ -1468,7 +1468,7 @@
     "owner": "andreasjansson",
     "name": "illusion",
     "description": "Monster Labs' control_v1p_sd15_qrcode_monster ControlNet on top of SD 1.5",
-    "run_count": 136440,
+    "run_count": 136665,
     "cover_image_url": "https://replicate.delivery/pbxt/hHJNV9QteKX8DK2ckkUeXsqbEIKNGFXU1fN0MJoizz3iPlOjA/output-0.png"
   },
   {
@@ -1484,7 +1484,7 @@
     "owner": "diaphinus",
     "name": "bodegakitty",
     "description": "Trained on images of a real cat",
-    "run_count": 244,
+    "run_count": 245,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/daaaf1ae-de89-4323-a971-ba083a4f4bb6/replicate-prediction-jy7qx7lbyngi.png"
   },
   {
@@ -1500,7 +1500,7 @@
     "owner": "nandycc",
     "name": "sdxl-app-icons",
     "description": "Fine tuned to generate awesome app icons, by aistartupkit.com",
-    "run_count": 14167,
+    "run_count": 14346,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/fd480076-4daf-4f1e-b9b2-8e406c4d0016/app_icon_1.png"
   },
   {
@@ -1516,7 +1516,7 @@
     "owner": "pagebrain",
     "name": "wuerstchen-v2",
     "description": "Fast Diffusion for Image Generation, ~3 Seconds",
-    "run_count": 1125,
+    "run_count": 1151,
     "cover_image_url": "https://pbxt.replicate.delivery/e2U2mWZ6NTQhFqZeeX8U8TxLIuffsNBSxGKSSHlpJ6COSAmMC/out-0.png"
   },
   {
@@ -1540,7 +1540,7 @@
     "owner": "cjwbw",
     "name": "wuerstchen",
     "description": "Efficient Pretraining of Text-to-Image Models",
-    "run_count": 1450,
+    "run_count": 1451,
     "cover_image_url": "https://replicate.delivery/pbxt/JYZEud12pT7FPFV2MtZaSTx6lEr2Z0XMpPb8JBUSYu0zeVyIA/out-1.png"
   },
   {
@@ -1548,7 +1548,7 @@
     "owner": "aussielabs",
     "name": "musicgen",
     "description": "Deployment of Meta's MusicGen",
-    "run_count": 61960,
+    "run_count": 62391,
     "cover_image_url": null
   },
   {
@@ -1564,7 +1564,7 @@
     "owner": "pagebrain",
     "name": "xtts-v1",
     "description": "Voice cloning with just a 3-second audio clip",
-    "run_count": 932,
+    "run_count": 938,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/c0e4e401-74d9-401d-9209-4dad5c622fd4/out-0_31.png"
   },
   {
@@ -1572,7 +1572,7 @@
     "owner": "catacolabs",
     "name": "sdxl-ad-inpaint",
     "description": "Product advertising image generator using SDXL",
-    "run_count": 1608,
+    "run_count": 1611,
     "cover_image_url": "https://pbxt.replicate.delivery/ORbuWtoy0y6NI9f4DrJ2fxs92LgviBaOlzOVdYTr3pT8eKJjA/7-out.png"
   },
   {
@@ -1644,7 +1644,7 @@
     "owner": "lucataco",
     "name": "remove-bg",
     "description": "Remove background from an image",
-    "run_count": 904,
+    "run_count": 906,
     "cover_image_url": "https://pbxt.replicate.delivery/NhgojYipuz4WOF16IaGDhQFel3h0ExyJlfHE5T2piloGCWkRA/output.png"
   },
   {
@@ -1676,7 +1676,7 @@
     "owner": "maison913",
     "name": "maison-cog-sdxl",
     "description": "Fashion model",
-    "run_count": 370,
+    "run_count": 373,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/90009200-711a-411b-9f50-32b31b8ddb84/output.png"
   },
   {
@@ -1716,7 +1716,7 @@
     "owner": "meta",
     "name": "llama-2-70b-chat",
     "description": "A 70 billion parameter language model from Meta, fine tuned for chat completions",
-    "run_count": 1563979,
+    "run_count": 1567263,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/264ff5d2-0672-4eb4-9f2c-cea13af0ccbf/future-llama-70b-chat.png"
   },
   {
@@ -1724,7 +1724,7 @@
     "owner": "meta",
     "name": "llama-2-70b",
     "description": "Base version of Llama 2, a 70 billion parameter language model from Meta.",
-    "run_count": 49100,
+    "run_count": 49154,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/a0fc9796-540f-4a31-ae81-1fe19bb22c96/llama_herd.png"
   },
   {
@@ -1732,7 +1732,7 @@
     "owner": "meta",
     "name": "llama-2-13b-chat",
     "description": "A 13 billion parameter language model from Meta, fine tuned for chat completions",
-    "run_count": 1621925,
+    "run_count": 1622363,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/7f5efca9-1c91-45b6-a708-1e00be8e2b86/high_tech_llama.png"
   },
   {
@@ -1740,7 +1740,7 @@
     "owner": "meta",
     "name": "llama-2-13b",
     "description": "Base version of Llama 2 13B, a 13 billion parameter language model",
-    "run_count": 11138,
+    "run_count": 11171,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/77764656-b253-4f6a-a666-52b560312695/ideogram.jpg"
   },
   {
@@ -1748,7 +1748,7 @@
     "owner": "meta",
     "name": "llama-2-7b-chat",
     "description": "A 7 billion parameter language model from Meta, fine tuned for chat completions",
-    "run_count": 501190,
+    "run_count": 506753,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/33ad1ead-8954-4b3b-bd46-125c7e18143f/llama-logo.png"
   },
   {
@@ -1756,7 +1756,7 @@
     "owner": "meta",
     "name": "llama-2-7b",
     "description": "Base version of Llama 2 7B, a 7 billion parameter language model",
-    "run_count": 136623,
+    "run_count": 136681,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/8b3db5d5-a4de-4271-b7b2-d511672452e1/out-0.png"
   },
   {
@@ -1796,7 +1796,7 @@
     "owner": "lucataco",
     "name": "realvisxl-v1.0",
     "description": "Implementation of SDXL RealVisXL_V1.0",
-    "run_count": 16215,
+    "run_count": 16273,
     "cover_image_url": "https://replicate.delivery/pbxt/BE3Saw9ARtYtGlFShWJWdWxo3yeW1bf4ozNvjgNsw7BZJtjRA/output.png"
   },
   {
@@ -1812,7 +1812,7 @@
     "owner": "lucataco",
     "name": "sdxl-controlnet-depth",
     "description": "SDXL ControlNet - Depth",
-    "run_count": 12815,
+    "run_count": 12905,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/0adf5353-9556-45a3-81c8-50417c81f0f2/sdxl-controlnet-depth.png"
   },
   {
@@ -1844,7 +1844,7 @@
     "owner": "fofr",
     "name": "prompt-classifier",
     "description": "Determines the toxicity of text to image prompts, llama-13b fine-tune. [SAFETY_RANKING] between 0 (safe) and 10 (toxic)",
-    "run_count": 641822,
+    "run_count": 645059,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/1c8604e3-fc58-4dd6-b2ff-337ab396df7c/fofr_two_friendly_3d_characters_a.png"
   },
   {
@@ -1852,7 +1852,7 @@
     "owner": "lucataco",
     "name": "clip-interrogator",
     "description": "CLIP Interrogator (for faster inference)",
-    "run_count": 49755,
+    "run_count": 49895,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/e57b5c7f-d0ef-4b1f-ba69-c6e16a932173/replicate-prediction-lyehbrdbrdzt.png"
   },
   {
@@ -1932,7 +1932,7 @@
     "owner": "dokeet",
     "name": "yomico-art-tattoo",
     "description": "An SDXL fine-tune based on the style of yomico, a tattoo artist. https://www.instagram.com/yomicoart",
-    "run_count": 1847,
+    "run_count": 1858,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/237fc5b3-96c5-4a41-9612-7d130f1bd91b/out-0.png"
   },
   {
@@ -1956,7 +1956,7 @@
     "owner": "pagebrain",
     "name": "cyberrealistic-v3-3",
     "description": "T4 GPU, negative embeddings, img2img, inpainting, safety checker, KarrasDPM, pruned fp16 safetensor",
-    "run_count": 2167,
+    "run_count": 2168,
     "cover_image_url": "https://pbxt.replicate.delivery/CYcOgEtzRi76CBQzK0Zaf3QonIeW36gPVf698u8MSnLuqzFjA/out-0.png"
   },
   {
@@ -1972,7 +1972,7 @@
     "owner": "pagebrain",
     "name": "epicrealism-v4",
     "description": "T4 GPU, negative embeddings, img2img, inpainting, safety checker, KarrasDPM, pruned fp16 safetensor",
-    "run_count": 1910,
+    "run_count": 1912,
     "cover_image_url": "https://replicate.delivery/pbxt/s8cTKH09hpKyBVaYmk6OY8sX0PPytc3eQy2bYFgJhMSgtcxIA/out-0.png"
   },
   {
@@ -1996,7 +1996,7 @@
     "owner": "pagebrain",
     "name": "dreamshaper-v7",
     "description": "T4 GPU, negative embeddings, img2img, inpainting, safety checker, KarrasDPM, pruned fp16 safetensor",
-    "run_count": 607,
+    "run_count": 608,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/06390086-0fff-4a99-86ad-72e144a0a82e/Copy_of_AbsoluteReality_V1.8.1.png"
   },
   {
@@ -2004,7 +2004,7 @@
     "owner": "pagebrain",
     "name": "rev-animated-v1-2-2",
     "description": "T4 GPU, negative embeddings, img2img, inpainting, safety checker, KarrasDPM, pruned fp16 safetensor",
-    "run_count": 965,
+    "run_count": 986,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/22739f51-5152-4b62-a690-2bd42d9797a1/ReV_Animated_v1.2.2.png"
   },
   {
@@ -2012,7 +2012,7 @@
     "owner": "pagebrain",
     "name": "epicphotogasm-v1",
     "description": "T4 GPU, negative embeddings, img2img, inpainting, safety checker, KarrasDPM, pruned fp16 safetensor",
-    "run_count": 3666,
+    "run_count": 3675,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/4b26b318-80df-47bb-9240-c2c478ad2ba4/epiCPhotoGasm_V1.png"
   },
   {
@@ -2028,7 +2028,7 @@
     "owner": "pagebrain",
     "name": "dreamshaper-v8",
     "description": "T4 GPU, negative embeddings, img2img, inpainting, safety checker, KarrasDPM, pruned fp16 safetensor",
-    "run_count": 1715,
+    "run_count": 1716,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/a911729f-a98f-4625-a07c-ab7ddd62e993/Add_a_heading.png"
   },
   {
@@ -2044,7 +2044,7 @@
     "owner": "pagebrain",
     "name": "absolutereality-v1-8-1",
     "description": "T4 GPU, negative embeddings, img2img, inpainting, safety checker, KarrasDPM, pruned fp16 safetensor",
-    "run_count": 7529,
+    "run_count": 7532,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/bca37271-07e9-4ada-b457-243ac41b43fb/AbsoluteReality_V1.8.1.png"
   },
   {
@@ -2052,7 +2052,7 @@
     "owner": "pagebrain",
     "name": "realistic-vision-v5-1",
     "description": "T4 GPU, negative embeddings, img2img, inpainting, safety checker, KarrasDPM, pruned fp16 safetensor",
-    "run_count": 2495,
+    "run_count": 2516,
     "cover_image_url": "https://replicate.delivery/pbxt/gFy6i1lz55JsAlywkq3R567KsSnBrVcmdLchoT9U3afBGbxIA/out-0.png"
   },
   {
@@ -2068,7 +2068,7 @@
     "owner": "pharmapsychotic",
     "name": "clip-interrogator",
     "description": "The CLIP Interrogator is a prompt engineering tool that combines OpenAI's CLIP and Salesforce's BLIP to optimize text prompts to match a given image. Use the resulting prompts with text-to-image models like Stable Diffusion to create cool art!",
-    "run_count": 855121,
+    "run_count": 855400,
     "cover_image_url": "https://replicate.delivery/pbxt/HrXsgowfhbZi3dImGZoIcvnz7oZfMtFY4UAEU8vBIakTd8JQ/watercolour-4799014_960_720.jpg"
   },
   {
@@ -2116,7 +2116,7 @@
     "owner": "galleri5",
     "name": "icons",
     "description": "SDXL finetune to generate slick Icons and Flat Pop Constructivist Graphics with thick edges. Trained on Bing Generations",
-    "run_count": 6167,
+    "run_count": 6259,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/417a0d6b-f359-496a-8f16-eca24fab33d1/out-0_-_2023-09-22T002747.144.png"
   },
   {
@@ -2140,7 +2140,7 @@
     "owner": "fofr",
     "name": "sdxl-emoji",
     "description": "An SDXL fine-tune based on Apple Emojis",
-    "run_count": 911108,
+    "run_count": 915472,
     "cover_image_url": "https://replicate.delivery/pbxt/a3z81v5vwlKfLq1H5uBqpVmkHalOVup0jSLma9E2UaF3tawIA/out-0.png"
   },
   {
@@ -2220,7 +2220,7 @@
     "owner": "karanchawla",
     "name": "studio-ghibli",
     "description": "Public SDXL model trained on the style of Studio Ghibli",
-    "run_count": 3675,
+    "run_count": 3799,
     "cover_image_url": "https://replicate.delivery/pbxt/JrtYemeMRnnio0Zzs2EsBt2MpKfxpj2ZUeg1Cvhi7Gjc92HGB/out-0.png"
   },
   {
@@ -2300,7 +2300,7 @@
     "owner": "jbilcke",
     "name": "sdxl-panorama",
     "description": "First version of my panorama LoRA (use 1024x512)",
-    "run_count": 463,
+    "run_count": 488,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/5dac414e-e1f5-485d-8efe-85395e27ad05/image_14.jpeg"
   },
   {
@@ -2308,7 +2308,7 @@
     "owner": "subscriptions10x",
     "name": "sdxl-inpainting",
     "description": null,
-    "run_count": 16007,
+    "run_count": 16083,
     "cover_image_url": "https://replicate.delivery/pbxt/ssbICIQulZ6JGZmo3nNnRojHo1XyojSiLa9fkYfx3YasInhRA/output_0.png"
   },
   {
@@ -2348,7 +2348,7 @@
     "owner": "lucataco",
     "name": "codeformer",
     "description": "Robust face restoration algorithm for old photos/AI-generated faces - (A40 GPU)",
-    "run_count": 3906,
+    "run_count": 3914,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/cf736d61-411f-4301-89b3-16aff1a02ed1/codeformer_logo.png"
   },
   {
@@ -2420,7 +2420,7 @@
     "owner": "uwulewd",
     "name": "airoboros-llama-2-70b",
     "description": "Inference Airoboros L2 70B 2.1 - GPTQ using ExLlama.",
-    "run_count": 13181,
+    "run_count": 13198,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/a788f9b7-490c-48a3-b843-e0270274ba76/1690740835_3.png"
   },
   {
@@ -2580,7 +2580,7 @@
     "owner": "lucataco",
     "name": "ms-img2vid",
     "description": "Turn any image into a video",
-    "run_count": 14211,
+    "run_count": 14424,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/8e316a0b-5206-408b-80af-65620a0d5eec/boat.gif"
   },
   {
@@ -2732,7 +2732,7 @@
     "owner": "jakobsitter",
     "name": "js_sdxl",
     "description": null,
-    "run_count": 223,
+    "run_count": 224,
     "cover_image_url": "https://replicate.delivery/pbxt/VcpRcIc4Ceze70JYRyAZUbxAgoeJU0QTu3CB9BPhp28VvdfFB/out-0.png"
   },
   {
@@ -2764,7 +2764,7 @@
     "owner": "mejiabrayan",
     "name": "logoai",
     "description": null,
-    "run_count": 7920,
+    "run_count": 8016,
     "cover_image_url": "https://replicate.delivery/pbxt/kOqvyQauW5rdAdYAaEIZeZYch3Jzi7ysTLIUXI80xWMsepfiA/out-0.png"
   },
   {
@@ -2812,7 +2812,7 @@
     "owner": "wolverinn",
     "name": "simple-background",
     "description": "Replace background with stable diffusion",
-    "run_count": 368,
+    "run_count": 374,
     "cover_image_url": "https://replicate.delivery/pbxt/VtaRFsbD2layPt2P1Z1yt7kTRmOeCe6aDg3H3rkKKExLhYfiA/4fa68094-4790-11ee-981d-6a2e16fc0cc3.png"
   },
   {
@@ -2844,7 +2844,7 @@
     "owner": "jbilcke",
     "name": "sdxl-botw",
     "description": "A SDXL LoRA inspired by Breath of the Wild",
-    "run_count": 275,
+    "run_count": 276,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/aea9c0c4-b3d6-425b-9e96-9a615220fa30/link-llama.jpeg"
   },
   {
@@ -2860,7 +2860,7 @@
     "owner": "doriandarko",
     "name": "sdxl-allaprima",
     "description": "SDXL model trained on a blocky oil painting and still life.",
-    "run_count": 2319,
+    "run_count": 2320,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/6230d510-abf5-4c1c-8f09-3b5683a93ede/out-0_35.png"
   },
   {
@@ -2900,7 +2900,7 @@
     "owner": "arnesen",
     "name": "street_art",
     "description": null,
-    "run_count": 248,
+    "run_count": 249,
     "cover_image_url": "https://replicate.delivery/pbxt/WlAKHNYzZ1LEO9QxlKRjPaO6BLFuSOnN5v3Cps0RlaTevlvIA/out-0.png"
   },
   {
@@ -2908,7 +2908,7 @@
     "owner": "doriandarko",
     "name": "sdxl-hiroshinagai",
     "description": "SDXL model trained on Hiroshi Nagai's illustrations.",
-    "run_count": 3398,
+    "run_count": 3439,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/8929522d-ddea-4445-a50a-ed1fe07959df/out-0_21.png"
   },
   {
@@ -2916,7 +2916,7 @@
     "owner": "alexgenovese",
     "name": "upscaler",
     "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration",
-    "run_count": 436,
+    "run_count": 445,
     "cover_image_url": "https://replicate.delivery/pbxt/yWyhYH17ZB4LNxLuTeQSllZ6m62SLo9o4EG7GQwKr5VrpE0IA/out..jpeg"
   },
   {
@@ -2956,7 +2956,7 @@
     "owner": "cjwbw",
     "name": "i2vgen-xl",
     "description": "Generating high-definition videos based on input images and videos.",
-    "run_count": 2807,
+    "run_count": 2813,
     "cover_image_url": null
   },
   {
@@ -2988,7 +2988,7 @@
     "owner": "fofr",
     "name": "sdxl-2004",
     "description": "An SDXL fine-tune based on bad 2004 digital photography",
-    "run_count": 7854,
+    "run_count": 7856,
     "cover_image_url": "https://pbxt.replicate.delivery/8LKCty2D5b5BBBjylErfI8Xqf4OTSsnA0TIJccnpPct3GmeiA/out-0.png"
   },
   {
@@ -3004,7 +3004,7 @@
     "owner": "davidbarker",
     "name": "sdxl-victorian-illustrations",
     "description": "SDXL trained on illustrations from the Victorian era",
-    "run_count": 913,
+    "run_count": 914,
     "cover_image_url": "https://replicate.delivery/pbxt/xcRStyIOea1TXy6Mbd0vhOqCoCzKfhktZgZZ7cY4AjpGyGeiA/out-0.png"
   },
   {
@@ -3044,7 +3044,7 @@
     "owner": "gregwdata",
     "name": "defog-sqlcoder-q8",
     "description": "Defog's SQLCoder is a state-of-the-art LLM for converting natural language questions to SQL queries. SQLCoder is a 15B parameter fine-tuned on a base StarCoder model.",
-    "run_count": 7683,
+    "run_count": 7738,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/0c37e013-0733-4c2e-8bae-ae8b38689d47/sqlcoder_image_2.png"
   },
   {
@@ -3052,7 +3052,7 @@
     "owner": "davidbarker",
     "name": "sdxl-polaroid",
     "description": "Photos on Polaroid, including hands holding Polaroid photos",
-    "run_count": 1896,
+    "run_count": 1933,
     "cover_image_url": "https://replicate.delivery/pbxt/8r2x7fH8JOSbDaljf9h9jFW5IrXDhvHsHNmyoK0Jkg4MAndRA/out-0.png"
   },
   {
@@ -3060,7 +3060,7 @@
     "owner": "mark3labs",
     "name": "embeddings-gte-base",
     "description": "General Text Embeddings (GTE) model.",
-    "run_count": 123513,
+    "run_count": 123786,
     "cover_image_url": null
   },
   {
@@ -3084,7 +3084,7 @@
     "owner": "zylim0702",
     "name": "sdxl-lora-customize-training",
     "description": "Introducing a Lora Instant Training model for crafting stunning 1024x1024 visuals. Train your own Lora Model via zip photos for instant outputs. Try Lora Model using this link: https://replicate.com/zylim0702/sdxl-lora-customize-model.",
-    "run_count": 1929,
+    "run_count": 1931,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/66942682-c7da-4722-a281-3ffe40659a90/replicate-prediction-y2ajw3tb5n7d.png"
   },
   {
@@ -3092,7 +3092,7 @@
     "owner": "wglodell",
     "name": "cog-whisperx-withprompt",
     "description": "WhisperX transcription with inital_prompt",
-    "run_count": 11714,
+    "run_count": 11744,
     "cover_image_url": null
   },
   {
@@ -3140,7 +3140,7 @@
     "owner": "cbh123",
     "name": "sdxl-money",
     "description": "SDXL fine-tuned on currencies",
-    "run_count": 2895,
+    "run_count": 3007,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/f4d50ecf-4d03-47a0-a6b5-eaa215236145/replicate-prediction-3mspxndbzgbc.png"
   },
   {
@@ -3156,7 +3156,7 @@
     "owner": "zeke",
     "name": "adventure-time",
     "description": null,
-    "run_count": 236,
+    "run_count": 237,
     "cover_image_url": "https://replicate.delivery/pbxt/zN77t74n8YrCH9CfE8NXBXT7LzCvUVMN9xftxD4W7S3R3dcRA/out-0.png"
   },
   {
@@ -3180,7 +3180,7 @@
     "owner": "sepal",
     "name": "audiogen",
     "description": "Generate sounds from a text prompt",
-    "run_count": 1965,
+    "run_count": 2007,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/04277cad-165c-4c88-afb7-da21c34b669b/135109_Text_morphing_into_sound_w.png"
   },
   {
@@ -3228,7 +3228,7 @@
     "owner": "zylim0702",
     "name": "sdxl-lora-customize-model",
     "description": "Introducing a text-to-image AI that crafts stunning 1024x1024 visuals. Load LoRa models via URLs for instant outputs. Train using this link: https://replicate.com/zylim0702/sdxl-lora-customize-training.",
-    "run_count": 14337,
+    "run_count": 14805,
     "cover_image_url": "https://replicate.delivery/pbxt/nSoKenfp8aqFTkQ4qcDeifAOKbPXeRarzT6fj3I1cm6zI99WE/out-3.png"
   },
   {
@@ -3252,7 +3252,7 @@
     "owner": "cbh123",
     "name": "sdxl-davinci",
     "description": "SDXL fine-tuned on Davinci drawings",
-    "run_count": 1886,
+    "run_count": 1924,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/1f144b7e-8680-4202-aaeb-52c3aab2073c/out-0.png"
   },
   {
@@ -3284,7 +3284,7 @@
     "owner": "lucataco",
     "name": "faceswap",
     "description": "Faceswap with face enhancer",
-    "run_count": 1157561,
+    "run_count": 1158065,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/0accb58c-2827-4f00-a41a-da6eed57b656/elon-stark.jpg"
   },
   {
@@ -3340,7 +3340,7 @@
     "owner": "lucataco",
     "name": "sdxl-controlnet-openpose",
     "description": "SDXL ControlNet - OpenPose",
-    "run_count": 9082,
+    "run_count": 9173,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/ec800467-50b7-489e-b36c-9d3c4bc39f40/latina_ballerina.png"
   },
   {
@@ -3388,7 +3388,7 @@
     "owner": "lucataco",
     "name": "realistic-vision-v5-img2img",
     "description": "Realistic Vision v5.0 Image 2 Image",
-    "run_count": 37883,
+    "run_count": 38023,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/73c60070-6276-404a-ab6b-ea01ca2629c1/rv5img2img.png"
   },
   {
@@ -3396,7 +3396,7 @@
     "owner": "pbarker",
     "name": "gfpgan-video",
     "description": "GFPGAN for human face video upscaling",
-    "run_count": 2073,
+    "run_count": 2081,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/8af3b573-90c7-4f5a-8959-8a5ff3fc6562/image_upscale.jpeg"
   },
   {
@@ -3404,7 +3404,7 @@
     "owner": "anotherjesse",
     "name": "real-esrgan-a40",
     "description": null,
-    "run_count": 178634,
+    "run_count": 178635,
     "cover_image_url": "https://pbxt.replicate.delivery/BMljRbe1U22lEyO8VQMUHx2h45iQTob6jZWLczs5UilW8KtIA/output.png"
   },
   {
@@ -3452,7 +3452,7 @@
     "owner": "lucataco",
     "name": "realistic-vision-v5.1",
     "description": "Implementation of Realistic Vision v5.1 with VAE",
-    "run_count": 89944,
+    "run_count": 90391,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/66a04ada-a7e1-40eb-8f9a-4ebf51d1d106/output.png"
   },
   {
@@ -3476,7 +3476,7 @@
     "owner": "alx-ai",
     "name": "sdxl-noggles-nowrong",
     "description": null,
-    "run_count": 416,
+    "run_count": 417,
     "cover_image_url": "https://pbxt.replicate.delivery/wagDm4lUhcq1NtEvygOtebpZq7qbiDRHa3enm561aeXbto0iA/out-0.png"
   },
   {
@@ -3492,7 +3492,7 @@
     "owner": "lucataco",
     "name": "sdxl-clip-interrogator",
     "description": "CLIP Interrogator for SDXL optimizes text prompts to match a given image",
-    "run_count": 9075,
+    "run_count": 9098,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/c200f919-4cc1-412b-8edf-e2863a5eef56/replicate-sdxl-inter.png"
   },
   {
@@ -3500,7 +3500,7 @@
     "owner": "krthr",
     "name": "clip-embeddings",
     "description": "Generate CLIP (clip-vit-large-patch14) text & image embeddings",
-    "run_count": 14570,
+    "run_count": 14590,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/309a78af-dc29-42bb-ab6f-1f23cee520c6/1_tg7akErlMSyCLQxrMtQIYw.png"
   },
   {
@@ -3532,7 +3532,7 @@
     "owner": "412392713",
     "name": "vtoonify",
     "description": "Portrait Style Transfer with VToonify",
-    "run_count": 1464,
+    "run_count": 1465,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/f3e68e89-aac4-4f98-ae86-e293385f3d60/TM4VmpzkhfED8JG9B9Og_out.jpg"
   },
   {
@@ -3564,7 +3564,7 @@
     "owner": "412392713",
     "name": "animeganv2",
     "description": "Demo for AnimeGanv2 Face Portrait",
-    "run_count": 653,
+    "run_count": 655,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/2693f3b5-86ea-41f0-8834-1a30ee6fa283/output.png"
   },
   {
@@ -3644,7 +3644,7 @@
     "owner": "fofr",
     "name": "sdxl-vision-pro",
     "description": "An SDXL fine-tune on Apple Vision Pro",
-    "run_count": 2389,
+    "run_count": 2390,
     "cover_image_url": "https://replicate.delivery/pbxt/aVhJriYftYQCFCd81DrvNGktIcOlJrb3fifcOTQ3yI7LZWxiA/out-0.png"
   },
   {
@@ -3676,7 +3676,7 @@
     "owner": "zeke",
     "name": "loteria",
     "description": "A fine-tuned version SDXL for generating loteria cards",
-    "run_count": 3036,
+    "run_count": 3061,
     "cover_image_url": "https://replicate.delivery/pbxt/fKa2cif9XghvzU4XdiEIZPVdZlKx7R2kIVTz0KRamIjHADZRA/out-0.png"
   },
   {
@@ -3692,7 +3692,7 @@
     "owner": "pwntus",
     "name": "sdxl-gta-v",
     "description": "A fine-tuned SDXL based on GTA V art",
-    "run_count": 5190,
+    "run_count": 5217,
     "cover_image_url": "https://replicate.delivery/pbxt/YE9wXAGTU3ZuOdFH2pM6Wzuawe9hGs9wWswshYULRU7fDVYRA/out-0.png"
   },
   {
@@ -3708,7 +3708,7 @@
     "owner": "jakedahn",
     "name": "sdxl-70s-scifi",
     "description": null,
-    "run_count": 3400,
+    "run_count": 3426,
     "cover_image_url": "https://pbxt.replicate.delivery/kfkcJxG7FBy5PKTzyfe2fT5OUuOePKeee4PTq17B602eNIbwiA/out-3.png"
   },
   {
@@ -3724,7 +3724,7 @@
     "owner": "fofr",
     "name": "sdxl-sonic-2",
     "description": null,
-    "run_count": 1748,
+    "run_count": 1773,
     "cover_image_url": "https://replicate.delivery/pbxt/KGJURfJEL1S4HC1fOqin0dqbKzRUp5lQrXpeZKHUgarjpMwiA/out-3.png"
   },
   {
@@ -3740,7 +3740,7 @@
     "owner": "pwntus",
     "name": "sdxl-woolitize",
     "description": "A fine-tuned SDXL based on felted wool",
-    "run_count": 661,
+    "run_count": 690,
     "cover_image_url": "https://replicate.delivery/pbxt/uGooZFXDZrZrKJ2mXPque5f809rveePhkyYqdZNaCL8WaLgFB/out-0.png"
   },
   {
@@ -3748,7 +3748,7 @@
     "owner": "okaris",
     "name": "roop",
     "description": "chameleonn: one-click face swap (formerly roop)",
-    "run_count": 325257,
+    "run_count": 326418,
     "cover_image_url": null
   },
   {
@@ -3756,7 +3756,7 @@
     "owner": "fofr",
     "name": "sdxl-barbie",
     "description": "A fine-tuned SDXL lora based on the Barbie movie",
-    "run_count": 10883,
+    "run_count": 10923,
     "cover_image_url": "https://replicate.delivery/pbxt/STPvBA4rC8I1Ah0cGSjkzhJlqZ8dmLhRvmep4EDCMh2mmfXRA/out-0.png"
   },
   {
@@ -3772,7 +3772,7 @@
     "owner": "fofr",
     "name": "sdxl-tron",
     "description": "A fine-tuned SDXL lora based on Tron Legacy",
-    "run_count": 6107,
+    "run_count": 6140,
     "cover_image_url": "https://replicate.delivery/pbxt/POE8cHFcZtqQL5glo2ln85giLmgTsO6u3JtFGxJ6Afx5wUsIA/out-0.png"
   },
   {
@@ -3780,7 +3780,7 @@
     "owner": "lucataco",
     "name": "sdxl",
     "description": "A text-to-image generative AI model that creates beautiful images",
-    "run_count": 18989,
+    "run_count": 19046,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/d34b9ed4-dfcc-4e98-8998-d60243a9da03/output.png"
   },
   {
@@ -3836,7 +3836,7 @@
     "owner": "lucataco",
     "name": "gfpgan",
     "description": "Practical face restoration algorithm for *old photos* or *AI-generated faces* (for larger images)",
-    "run_count": 35617,
+    "run_count": 35632,
     "cover_image_url": "https://replicate.delivery/pbxt/YoICefceadfiwScwffqng14VeJS55Q6Y8UKWnBbgd0nzVCErIA/out..png"
   },
   {
@@ -3860,7 +3860,7 @@
     "owner": "cjwbw",
     "name": "resshift",
     "description": "Efficient Diffusion Model for Image Super-resolution by Residual Shifting",
-    "run_count": 796,
+    "run_count": 797,
     "cover_image_url": "https://replicate.delivery/pbxt/X0SlhKOZssZfcKYch1J7IL1oEjvrui1lXRc78d2gYrFGt6qIA/out.png"
   },
   {
@@ -3876,7 +3876,7 @@
     "owner": "stphtan94117",
     "name": "easy-remove-background",
     "description": null,
-    "run_count": 1120,
+    "run_count": 1158,
     "cover_image_url": "https://replicate.delivery/pbxt/EJBwfAo1WrRIQim1DrLz8pD87NEUElaj2fO4gKFe54G1EEDjA/output.png"
   },
   {
@@ -3892,7 +3892,7 @@
     "owner": "pollinations",
     "name": "rife-video-interpolation",
     "description": null,
-    "run_count": 3254,
+    "run_count": 3264,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/979e8521-a783-42d4-93af-8fa0bdf7d1d1/I2_slomo_clipped.gif"
   },
   {
@@ -3908,7 +3908,7 @@
     "owner": "abhishek7kalra",
     "name": "vangogh",
     "description": "Van Gogh-fy your image !! Or maybe not",
-    "run_count": 137,
+    "run_count": 138,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/883643a7-f764-4de3-a68a-7af6e1a0c326/Imagejtb7-1684960500563.webp"
   },
   {
@@ -3916,7 +3916,7 @@
     "owner": "iceclear",
     "name": "stablesr",
     "description": "Exploiting Diffusion Prior for Real-World Image Super-Resolution",
-    "run_count": 1703,
+    "run_count": 1707,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/c402fa62-0cba-47b0-9e05-f216898c0cf9/imgsli_2.jpg"
   },
   {
@@ -3932,7 +3932,7 @@
     "owner": "alqasemy2020",
     "name": "whisper-jax",
     "description": "Faster and cheaper Whisper-AI Large-v2 responses. JAX implementation of OpenAI's Whisper model for up to 15x speed-up (doesn't support TPU).",
-    "run_count": 4674,
+    "run_count": 4729,
     "cover_image_url": null
   },
   {
@@ -3948,7 +3948,7 @@
     "owner": "heedster",
     "name": "realistic-vision-v5",
     "description": "Deployment of Realistic vision v5.0 with xformers for fast inference",
-    "run_count": 266045,
+    "run_count": 266682,
     "cover_image_url": "https://replicate.delivery/pbxt/6GzgXMQEnfRiGirhuRhZjsMQypDQQ7AcfQasxbewWLQWktoiA/ai.png"
   },
   {
@@ -3964,7 +3964,7 @@
     "owner": "logerzhu",
     "name": "ad-inpaint",
     "description": "Product advertising image generator",
-    "run_count": 187222,
+    "run_count": 187364,
     "cover_image_url": "https://replicate.delivery/pbxt/3ZmtvTJWj3a0Al9XR7SSKqpAfLTZtrkM7t5KjLvz7Nqsv3pIA/ad_inpaint_3.jpg"
   },
   {
@@ -4052,7 +4052,7 @@
     "owner": "usamaehsan",
     "name": "controlnet-1.1-x-realistic-vision-v2.0",
     "description": "controlnet 1.1 lineart x realistic-vision-v2.0",
-    "run_count": 691467,
+    "run_count": 691903,
     "cover_image_url": "https://replicate.delivery/pbxt/JYSLsrezQORsXSe0wAmrjS65163VpcfY5yY8XIzPNwu0IP7hA/output_1.png"
   },
   {
@@ -4068,7 +4068,7 @@
     "owner": "anotherjesse",
     "name": "zeroscope-v2-xl",
     "description": "Zeroscope V2 XL & 576w",
-    "run_count": 145352,
+    "run_count": 145514,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/021a0a2e-b57b-4b45-a5c7-e29773aa5345/1mrNnh8.png"
   },
   {
@@ -4084,7 +4084,7 @@
     "owner": "mingcv",
     "name": "bread",
     "description": "The online demo of Bread (Low-light Image Enhancement via Breaking Down the Darkness). This demo is developed to enhance images with poor/irregular illumination and annoying noises.",
-    "run_count": 5757,
+    "run_count": 5772,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/58147e6b-bc05-43eb-ae41-7fbf64b541bc/QQ%E6%88%AA%E5%9B%BE20230502104816.jpg"
   },
   {
@@ -4116,7 +4116,7 @@
     "owner": "lucataco",
     "name": "real-esrgan",
     "description": "Real-ESRGAN with optional face correction and adjustable upscale (for larger images)",
-    "run_count": 9348,
+    "run_count": 9349,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/0787df80-1825-4c9f-bb5a-12777681a4c1/output.png"
   },
   {
@@ -4164,7 +4164,7 @@
     "owner": "ai-forever",
     "name": "kandinsky-2.2",
     "description": "multilingual text2image latent diffusion model",
-    "run_count": 3055029,
+    "run_count": 3064754,
     "cover_image_url": "https://replicate.delivery/pbxt/Lca3IEjcKoJBBVS6ajROkK37sDzPsmjYxIcFzxPZp65wZzTE/out-0.png"
   },
   {
@@ -4196,7 +4196,7 @@
     "owner": "nomagick",
     "name": "chatglm2-6b",
     "description": "ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型",
-    "run_count": 6422,
+    "run_count": 6479,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/4228bfbc-bcb7-404d-8586-726c31f7073c/kqm9ddydl8_1689082483825.png"
   },
   {
@@ -4204,7 +4204,7 @@
     "owner": "nomagick",
     "name": "chatglm2-6b-int4",
     "description": "ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型 (int4)",
-    "run_count": 176,
+    "run_count": 177,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/ca04cf6a-f6d1-4bf0-b07b-c68fa3d55bfe/kqm9ddydl8_1689082483825.png"
   },
   {
@@ -4212,7 +4212,7 @@
     "owner": "zylim0702",
     "name": "qr_code_controlnet",
     "description": "ControlNet QR Code Generator: Simplify QR code creation for various needs using ControlNet's user-friendly neural interface, making integration a breeze. Just key in the url !",
-    "run_count": 26629,
+    "run_count": 26794,
     "cover_image_url": "https://replicate.delivery/pbxt/SFZnhwaRO1rVCNNPYSpEL0LyBa4fsMjXKqbHfV4A0XBffQpFB/seed-6400.png"
   },
   {
@@ -4220,7 +4220,7 @@
     "owner": "replicategithubwc",
     "name": "dreamlike-anime",
     "description": "Dreamlike Anime 1.0 for Splurge Art",
-    "run_count": 575,
+    "run_count": 576,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/f0d4ea4b-d19d-4bea-a86f-6d7eb65334a8/preview2.jpg"
   },
   {
@@ -4228,7 +4228,7 @@
     "owner": "replicategithubwc",
     "name": "dreamlike-photoreal",
     "description": "Dreamlike Photoreal Model for Splurge Art",
-    "run_count": 658,
+    "run_count": 663,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/4563d551-765d-49a5-ac36-705cd5cbed26/output.0.png"
   },
   {
@@ -4244,7 +4244,7 @@
     "owner": "stphtan94117",
     "name": "auto-remove-anything",
     "description": null,
-    "run_count": 7824,
+    "run_count": 7915,
     "cover_image_url": "https://replicate.delivery/pbxt/oOKDOGsh5JoeZ68seR2nug9NBwQS3wyzvq4LYlNZpJfDKe6EB/output.png"
   },
   {
@@ -4260,7 +4260,7 @@
     "owner": "lucataco",
     "name": "realistic-vision-v4.0",
     "description": "Realistic Vision V4.0",
-    "run_count": 31415,
+    "run_count": 31423,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/7b901649-a38f-47cc-9b88-f9b7c25cb8d0/output.png"
   },
   {
@@ -4268,7 +4268,7 @@
     "owner": "stability-ai",
     "name": "stable-diffusion",
     "description": "A latent text-to-image diffusion model capable of generating photo-realistic images given any text input",
-    "run_count": 100848461,
+    "run_count": 100865138,
     "cover_image_url": "https://replicate.delivery/pbxt/sWeZFZou6v3CPKuoJbqX46ugPaHT1DcsWYx0srPmGrMOCPYIA/out-0.png"
   },
   {
@@ -4300,7 +4300,7 @@
     "owner": "joehoover",
     "name": "falcon-40b-instruct",
     "description": "A 40 billion parameter language model trained to follow human instructions.",
-    "run_count": 25757,
+    "run_count": 25794,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/bf7c5012-7855-4192-b95e-8c2b78d4e46e/replicate-prediction-7unwtpjbd55t.png"
   },
   {
@@ -4324,7 +4324,7 @@
     "owner": "prompthero",
     "name": "majicmix",
     "description": "Generate a new image given any input text with majicMix realistic v6",
-    "run_count": 13782,
+    "run_count": 13791,
     "cover_image_url": "https://replicate.delivery/pbxt/hx2SyxhFQbICDFexvQb3oeFMMbFUefJcBMvRzzvLqvk2Un1EB/out-0.png"
   },
   {
@@ -4332,7 +4332,7 @@
     "owner": "prompthero",
     "name": "dreamshaper",
     "description": "Generate a new image given any input text with Dreamshaper v7",
-    "run_count": 107487,
+    "run_count": 107619,
     "cover_image_url": "https://replicate.delivery/pbxt/iowJW7fddKR0SyOz9l5b5dagFhq4au7VeEuvnfpPxI6N8saiA/out-0.png"
   },
   {
@@ -4340,7 +4340,7 @@
     "owner": "lucataco",
     "name": "realistic-vision-v3.0",
     "description": "Realistic Vision V3.0 with VAE",
-    "run_count": 3614,
+    "run_count": 3616,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/4ba9d8a5-9251-42de-98bc-53be034b2b1e/output.png"
   },
   {
@@ -4348,7 +4348,7 @@
     "owner": "prompthero",
     "name": "epicrealism",
     "description": "Generate a new image given any input text with epiCRealism",
-    "run_count": 22122,
+    "run_count": 22130,
     "cover_image_url": "https://replicate.delivery/pbxt/WRVckffJLJgzpEKCMF6fgJi8Kwt0JLSwrBY4nbEdbSllcraiA/out-0.png"
   },
   {
@@ -4356,7 +4356,7 @@
     "owner": "hassamdevsy",
     "name": "mask2former",
     "description": "Facebook Mask2Former trained on ADE 20k Dataset",
-    "run_count": 20695,
+    "run_count": 20750,
     "cover_image_url": "https://replicate.delivery/pbxt/CJeUQYntErT5HaGAWOmSVlf12AECqn51iEYhuXzc36BEyiIRA/output_mask.png"
   },
   {
@@ -4396,7 +4396,7 @@
     "owner": "anotherjesse",
     "name": "controlnet-inpaint-test",
     "description": "controlnet_v11p_sd15_inpainting demo",
-    "run_count": 5139,
+    "run_count": 5157,
     "cover_image_url": "https://replicate.delivery/pbxt/4tjRIiRkYTqGNBS2fFVsDFxOh62LfmODwyCMKekTGcrUhpYiA/seed-8466.png"
   },
   {
@@ -4404,7 +4404,7 @@
     "owner": "mixinmax1990",
     "name": "realisitic-vision-v3-inpainting",
     "description": "Realistic Vision V3.0 Inpainting",
-    "run_count": 83768,
+    "run_count": 84245,
     "cover_image_url": "https://replicate.delivery/pbxt/78qRODWrAAYWBx5oDZLPfgqQKnMWSitDVPfInJ8k2zlkt8LRA/ai.png"
   },
   {
@@ -4412,7 +4412,7 @@
     "owner": "ilkerc",
     "name": "rembg",
     "description": "Removes Background From Image",
-    "run_count": 59188,
+    "run_count": 59249,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/524a37e1-d793-4c2a-b5e2-da606ccdd868/input.jpeg"
   },
   {
@@ -4420,7 +4420,7 @@
     "owner": "mixinmax1990",
     "name": "realisitic-vision-v3-image-to-image",
     "description": "Realistic Vision V3.0 Image 2 Image",
-    "run_count": 23492,
+    "run_count": 23515,
     "cover_image_url": "https://replicate.delivery/pbxt/Kg8VSoDkydJTBJ8fXB9eaf3biJoYa3GnqefnXUNTdefqp59lIA/ai.png"
   },
   {
@@ -4428,7 +4428,7 @@
     "owner": "mixinmax1990",
     "name": "realistic-vision-v3",
     "description": "Realistic Vision V3.0 (New)",
-    "run_count": 79538,
+    "run_count": 79829,
     "cover_image_url": "https://replicate.delivery/pbxt/e6DeUPvjXeGLuoemXRuSd8X0GpvdkEK2eoK0gK7uDlXSBIeSE/ai.png"
   },
   {
@@ -4444,7 +4444,7 @@
     "owner": "cjwbw",
     "name": "demucs",
     "description": "Demucs Music Source Separation",
-    "run_count": 9966,
+    "run_count": 10034,
     "cover_image_url": null
   },
   {
@@ -4452,7 +4452,7 @@
     "owner": "rossjillian",
     "name": "controlnet",
     "description": "Control diffusion models",
-    "run_count": 6818962,
+    "run_count": 6819309,
     "cover_image_url": "https://replicate.delivery/pbxt/BKfYyssmWUUDWiukeXLAQc47KUPBwDMCdbxd8esqr3yE06eDB/out-0.png"
   },
   {
@@ -4460,7 +4460,7 @@
     "owner": "daanelson",
     "name": "whisperx",
     "description": "Accelerated transcription of audio using WhisperX",
-    "run_count": 10447,
+    "run_count": 10462,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/5fc01bac-2092-48ac-bacb-05d559bef7d8/whisperimg.png"
   },
   {
@@ -4484,7 +4484,7 @@
     "owner": "stability-ai",
     "name": "stable-diffusion-inpainting",
     "description": "Fill in masked parts of images with Stable Diffusion",
-    "run_count": 15261826,
+    "run_count": 15262339,
     "cover_image_url": "https://replicate.delivery/pbxt/xs0pPOUM6HKmPlJJBXqKfE1YsiMzgNsCuGedlX0VqvPYifLgA/out-0.png"
   },
   {
@@ -4500,7 +4500,7 @@
     "owner": "nateraw",
     "name": "qrcode-stable-diffusion",
     "description": "Create Stylish AI-Generated QR Codes with Stable Diffusion",
-    "run_count": 19414,
+    "run_count": 19416,
     "cover_image_url": "https://replicate.delivery/pbxt/ELT1NcUX34Y9JRTgMBAC0fdsVJG0j5flt6ksOaouz8YcJfViA/output-0.png"
   },
   {
@@ -4516,7 +4516,7 @@
     "owner": "lucataco",
     "name": "vicuna-33b-v1.3",
     "description": "lmsys/vicuna-33b-v1.3",
-    "run_count": 12760,
+    "run_count": 12840,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/41d64155-82d4-4fb4-9aa8-74b1dc946525/uZ2jFNAjXfdBo6c6Yojmg.jpg"
   },
   {
@@ -4540,7 +4540,7 @@
     "owner": "meta",
     "name": "musicgen",
     "description": "Generate music from a prompt or melody",
-    "run_count": 479196,
+    "run_count": 480048,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/9dce42df-66a8-47eb-9946-5e0f04c269e6/replicate-prediction-2o3piazbcbrb.png"
   },
   {
@@ -4668,7 +4668,7 @@
     "owner": "naklecha",
     "name": "fashion-ai",
     "description": "This model can edit clothing found within an image, using a state of the art clothing segmentation algorithm.",
-    "run_count": 48035,
+    "run_count": 48037,
     "cover_image_url": "https://replicate.delivery/pbxt/LEUR8uWubCLLJ5aebWHGJ8RN1bXZbETzezd3usAV9aHNe2eDB/inpainted.png"
   },
   {
@@ -4724,7 +4724,7 @@
     "owner": "andreasjansson",
     "name": "musicgen-looper",
     "description": "Generate fixed-bpm loops from text prompts",
-    "run_count": 14954,
+    "run_count": 14966,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/8ce9d44b-0919-41a0-9e02-41bbdede8eff/out-0.jpg"
   },
   {
@@ -4764,7 +4764,7 @@
     "owner": "fofr",
     "name": "audio-to-waveform",
     "description": "Create a waveform video from audio",
-    "run_count": 141100,
+    "run_count": 141231,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/5d5cad9c-d4ba-44e1-8c4f-dc08648bbf5e/fofr_a_waveform_bar_chart_video_e.png"
   },
   {
@@ -4788,7 +4788,7 @@
     "owner": "allenhooo",
     "name": "lama",
     "description": "🦙 LaMa: Resolution-robust Large Mask Inpainting with Fourier Convolutions",
-    "run_count": 157823,
+    "run_count": 158443,
     "cover_image_url": "https://replicate.delivery/pbxt/Y83OqpkGxDKeLaUEt4xXSqEBHMTQ7w4aeHl7twLKfWQrpPMiA/684397b236964067b7fde82b807945f2.png"
   },
   {
@@ -4836,7 +4836,7 @@
     "owner": "batouresearch",
     "name": "photorealistic-fx",
     "description": "RunDiffusion FX Photorealistic model, developed by RunDiffusion.",
-    "run_count": 25926,
+    "run_count": 25931,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/4f0f1b3e-13b0-4877-9707-c7480d06fbe9/Screenshot_2023-06-13_at_15.38.01.png"
   },
   {
@@ -4900,7 +4900,7 @@
     "owner": "replit",
     "name": "replit-code-v1-3b",
     "description": "Generate code with Replit's replit-code-v1-3b large language model",
-    "run_count": 1796,
+    "run_count": 1799,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/a56da6ac-1bac-4722-8cc2-69c605e90a6a/replit.png"
   },
   {
@@ -4916,7 +4916,7 @@
     "owner": "ai-forever",
     "name": "kandinsky-2-1",
     "description": "Kandinsky 2.1 Diffusion Model",
-    "run_count": 59039,
+    "run_count": 59055,
     "cover_image_url": "https://replicate.delivery/pbxt/aOZ4ywUeyeiyqEz5l7lixq0e5rAbs3qTStetOGXNKZd4g6QEB/out-0.png"
   },
   {
@@ -4932,7 +4932,7 @@
     "owner": "prompthero",
     "name": "openjourney",
     "description": "Stable Diffusion fine tuned on Midjourney v4 images.",
-    "run_count": 10729915,
+    "run_count": 10731184,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/6584177a-6dbb-4de4-9858-9546ed9390eb/out-0.png"
   },
   {
@@ -5004,7 +5004,7 @@
     "owner": "mcai",
     "name": "absolutebeauty-v1.0-img2img",
     "description": "Generate a new image from an input image with AbsoluteReality v1.0",
-    "run_count": 85962,
+    "run_count": 85975,
     "cover_image_url": "https://replicate.delivery/pbxt/PAjmIBBuL35rPleavK9qljYgZksqCY39yKO8zIwE2dbpUChIA/out-0.png"
   },
   {
@@ -5012,7 +5012,7 @@
     "owner": "mcai",
     "name": "absolutebeauty-v1.0",
     "description": "Generate a new image given any input text with AbsoluteReality v1.0",
-    "run_count": 148202,
+    "run_count": 148306,
     "cover_image_url": "https://replicate.delivery/pbxt/Tsj9jwXB7H7SNxxBQOi23Ncz8VKuptZcdiDQnvpH23Q83egIA/out-0.png"
   },
   {
@@ -5020,7 +5020,7 @@
     "owner": "mcai",
     "name": "dreamshaper-v6-img2img",
     "description": "Generate a new image from an input image with DreamShaper V6",
-    "run_count": 25462,
+    "run_count": 25479,
     "cover_image_url": "https://replicate.delivery/pbxt/TOaGaIEk8HZmOlXZpf2k1bNcdiZ4gHx0xFlLa8uA9g95IeBRA/out-0.png"
   },
   {
@@ -5028,7 +5028,7 @@
     "owner": "mcai",
     "name": "dreamshaper-v6",
     "description": "Generate a new image given any input text with DreamShaper V6",
-    "run_count": 202271,
+    "run_count": 202324,
     "cover_image_url": "https://replicate.delivery/pbxt/by5ffLwdy3hJgEgm0ffxPRZmEGQTPPhr9neJEO0TAhz16CNIC/out-0.png"
   },
   {
@@ -5036,7 +5036,7 @@
     "owner": "openai",
     "name": "whisper",
     "description": "Convert speech in audio to text",
-    "run_count": 3557805,
+    "run_count": 3558475,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/a9253a5b-aa79-4df3-8aa1-09a6d044fdd6/Screen_Shot_2022-09-28_at_16.58.5.png"
   },
   {
@@ -5044,7 +5044,7 @@
     "owner": "mcai",
     "name": "babes-v2.0-img2img",
     "description": "Generate a new image from an input image with Babes 2.0",
-    "run_count": 588628,
+    "run_count": 589010,
     "cover_image_url": "https://replicate.delivery/pbxt/HwXgYDjwUxofGiPGNpvYy9HNgRK6f1R3oAI4Tjt1lQTet3DiA/out-0.png"
   },
   {
@@ -5068,7 +5068,7 @@
     "owner": "mcai",
     "name": "deliberate-v2-img2img",
     "description": "Generate a new image from an input image with Deliberate v2",
-    "run_count": 8443,
+    "run_count": 8447,
     "cover_image_url": "https://replicate.delivery/pbxt/e0r8QzT2M01KXSy5HXeq065bMDlwEfVKMp51ibaUM06bRq5hA/out-0.png"
   },
   {
@@ -5076,7 +5076,7 @@
     "owner": "mcai",
     "name": "edge-of-realism-v2.0-img2img",
     "description": "Generate a new image from an input image with Edge Of Realism - EOR v2.0",
-    "run_count": 93253,
+    "run_count": 93413,
     "cover_image_url": "https://replicate.delivery/pbxt/WM2XKbLHJMKQJBzPZteHGgCKwIVyhl9jC7Alohu80dKXB0eQA/out-0.png"
   },
   {
@@ -5084,7 +5084,7 @@
     "owner": "mcai",
     "name": "realistic-vision-v2.0-img2img",
     "description": "Generate a new image from an input image with Realistic Vision V2.0",
-    "run_count": 31152,
+    "run_count": 31167,
     "cover_image_url": "https://replicate.delivery/pbxt/4rnRngdVsi6eciLMfgrjfiFKFt7cHmkhAqvsQnafmXOp7YuDB/out-0.png"
   },
   {
@@ -5092,7 +5092,7 @@
     "owner": "mcai",
     "name": "babes-v2.0",
     "description": "Generate a new image given any input text with Babes 2.0",
-    "run_count": 13598,
+    "run_count": 13604,
     "cover_image_url": "https://replicate.delivery/pbxt/SWTGQtTYfFXlIydOY1y1EDmAktCrGWwCYFrKWYXg3nDhBf7QA/out-0.png"
   },
   {
@@ -5116,7 +5116,7 @@
     "owner": "mcai",
     "name": "deliberate-v2",
     "description": "Generate a new image given any input text with Deliberate v2",
-    "run_count": 347994,
+    "run_count": 348066,
     "cover_image_url": "https://replicate.delivery/pbxt/oreIe1ZQ0Sr5j0y8SscEUATRzPc70kwECtD1JRizr5z5Zg6QA/out-0.png"
   },
   {
@@ -5124,7 +5124,7 @@
     "owner": "mcai",
     "name": "edge-of-realism-v2.0",
     "description": "Generate a new image given any input text with Edge Of Realism - EOR v2.0",
-    "run_count": 103553,
+    "run_count": 103578,
     "cover_image_url": "https://replicate.delivery/pbxt/Sk3O8fpCHO3NYKGNXlRitXwikPyWhshxz4FFSEBtyJpNAmdIA/out-0.png"
   },
   {
@@ -5132,7 +5132,7 @@
     "owner": "mcai",
     "name": "realistic-vision-v2.0",
     "description": "Generate a new image given any input text with Realistic Vision V2.0",
-    "run_count": 354828,
+    "run_count": 355277,
     "cover_image_url": "https://replicate.delivery/pbxt/wWCrdc0f6TzRUqI15uEN1eIT0WRbT90Te9iXelx6K6rKXopDB/out-0.png"
   },
   {
@@ -5140,7 +5140,7 @@
     "owner": "replicate",
     "name": "all-mpnet-base-v2",
     "description": "This is a language model that can be used to obtain document embeddings suitable for downstream tasks like semantic search and clustering.",
-    "run_count": 523176,
+    "run_count": 523239,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/182a3b2e-3858-4d1f-a267-ca5c9eb9be12/vector_man.png"
   },
   {
@@ -5148,7 +5148,7 @@
     "owner": "tencentarc",
     "name": "animesr",
     "description": "Real-World Super-Resolution Models for Animation Videos",
-    "run_count": 7901,
+    "run_count": 7902,
     "cover_image_url": null
   },
   {
@@ -5156,7 +5156,7 @@
     "owner": "vbarter",
     "name": "faceswap",
     "description": null,
-    "run_count": 563763,
+    "run_count": 566548,
     "cover_image_url": "https://replicate.delivery/pbxt/tNt6bGOheT2yaifAqfz2NVJEERYzaaLmYctk05hcFSOome3DB/1684685524.jpg"
   },
   {
@@ -5244,7 +5244,7 @@
     "owner": "replicate",
     "name": "llama-7b",
     "description": "Transformers implementation of the LLaMA language model",
-    "run_count": 84055,
+    "run_count": 84110,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/f9bf25f5-e7a8-4463-91e1-fb0f192f2ddc/space_llama.png"
   },
   {
@@ -5252,7 +5252,7 @@
     "owner": "replicate",
     "name": "vicuna-13b",
     "description": "A large language model that's been fine-tuned on ChatGPT interactions",
-    "run_count": 193665,
+    "run_count": 194791,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/5292d2b0-fd60-42ff-94de-f0cee5959c6f/robot_llama.png"
   },
   {
@@ -5268,7 +5268,7 @@
     "owner": "stayallive",
     "name": "whisper-subtitles",
     "description": "Generate subtitles (.srt and .vtt) from audio files using OpenAI's Whisper models.",
-    "run_count": 2961,
+    "run_count": 2962,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/a62d0393-ab1f-4b46-9ebc-29914be4be45/replicate-prediction-novtn45xffea.png"
   },
   {
@@ -5292,7 +5292,7 @@
     "owner": "joehoover",
     "name": "instructblip-vicuna13b",
     "description": "An instruction-tuned multi-modal model based on BLIP-2 and Vicuna-13B",
-    "run_count": 187827,
+    "run_count": 187829,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/14b4060f-cb59-4b2a-987a-0cc4be5229e4/lavis-logo.png"
   },
   {
@@ -5300,7 +5300,7 @@
     "owner": "wolverinn",
     "name": "image-style-transfer-pytorch",
     "description": null,
-    "run_count": 26023,
+    "run_count": 26024,
     "cover_image_url": "https://replicate.delivery/pbxt/icRIonLgfC1OMKUEj7CaKRuRsIzPw33Ix7UJio8oDaDvvneQA/1684489694.png"
   },
   {
@@ -5308,7 +5308,7 @@
     "owner": "gfodor",
     "name": "instructblip",
     "description": "Image captioning via vision-language models with instruction tuning",
-    "run_count": 414247,
+    "run_count": 414274,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/0055b999-e430-4dfe-a77c-826092d4f54a/showcase.png"
   },
   {
@@ -5316,7 +5316,7 @@
     "owner": "lambdal",
     "name": "text-to-pokemon",
     "description": "Generate Pokémon from a text description",
-    "run_count": 7390663,
+    "run_count": 7391160,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/05b2d987-7b48-4ecf-b08f-c949d763be3e/pokemontage.jpg"
   },
   {
@@ -5324,7 +5324,7 @@
     "owner": "daanelson",
     "name": "imagebind",
     "description": "A model for text, audio, and image embeddings in one space",
-    "run_count": 218250,
+    "run_count": 218353,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/19590862-9c49-4cf5-9fa2-8534dd8df92b/Screenshot_2023-05-17_at_10.22.48.png"
   },
   {
@@ -5340,7 +5340,7 @@
     "owner": "pengdaqian2020",
     "name": "image-tagger",
     "description": "image tagger",
-    "run_count": 920572,
+    "run_count": 923988,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/eab53b16-c66d-4611-9957-52a501bb4802/bunny3.webp"
   },
   {
@@ -5348,7 +5348,7 @@
     "owner": "daanelson",
     "name": "minigpt-4",
     "description": "A model which generates text in response to an input image and prompt.",
-    "run_count": 304296,
+    "run_count": 305495,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/af717919-83de-46e8-9b1a-9c66f4f747bf/out_0.png"
   },
   {
@@ -5396,7 +5396,7 @@
     "owner": "cjwbw",
     "name": "sadtalker",
     "description": "Stylized Audio-Driven Single Image Talking Face Animation",
-    "run_count": 26978,
+    "run_count": 27015,
     "cover_image_url": null
   },
   {
@@ -5404,7 +5404,7 @@
     "owner": "joehoover",
     "name": "mplug-owl",
     "description": "An instruction-tuned multimodal large language model that generates text based on user-provided prompts and images",
-    "run_count": 38861,
+    "run_count": 38862,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/e8f484a0-8859-4fe3-b3a7-6f77c6f5e658/mplug-owl-logo.png"
   },
   {
@@ -5420,7 +5420,7 @@
     "owner": "replicate",
     "name": "mpt-7b-storywriter",
     "description": "A 7B parameter LLM fine-tuned to support contexts with more than 65K tokens",
-    "run_count": 7113,
+    "run_count": 7119,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/e80a5ad6-9efa-446b-bed4-c17ea1e4713b/robot_writer.png"
   },
   {
@@ -5460,7 +5460,7 @@
     "owner": "stability-ai",
     "name": "stablelm-base-alpha-3b",
     "description": "3B parameter base version of Stability AI's language model",
-    "run_count": 196,
+    "run_count": 197,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/68d9ab49-4f5a-416c-b4f9-324d60672fde/stablelm-3b.png"
   },
   {
@@ -5484,7 +5484,7 @@
     "owner": "nohamoamary",
     "name": "image-captioning-with-visual-attention",
     "description": "datasets: Flickr8k",
-    "run_count": 7597,
+    "run_count": 7601,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/b5daadbf-8a78-4073-af62-b3cb08183bc9/1.jpeg"
   },
   {
@@ -5500,7 +5500,7 @@
     "owner": "andreasjansson",
     "name": "deepfloyd-if",
     "description": "The DeepFloyd IF model has been initially released as a non-commercial research-only model. Please make sure you read and abide to the license before using it.",
-    "run_count": 1155879,
+    "run_count": 1158491,
     "cover_image_url": "https://replicate.delivery/pbxt/KgfeOYshHUjf3JWOiY1PKDGdLV16PRIMAkGuujoqBjGTv5shA/out.png"
   },
   {
@@ -5508,7 +5508,7 @@
     "owner": "replicate",
     "name": "flan-t5-xl",
     "description": "A language model by Google for tasks like classification, summarization, and more",
-    "run_count": 89164,
+    "run_count": 89219,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/e5e20eda-e350-4902-a235-6409c8847b70/flan.png"
   },
   {
@@ -5516,7 +5516,7 @@
     "owner": "suno-ai",
     "name": "bark",
     "description": "🔊 Text-Prompted Generative Audio Model",
-    "run_count": 160024,
+    "run_count": 160034,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/9fbbe7c2-beb0-4caa-bd59-647dd7eeee6b/fofr_dog.jpg"
   },
   {
@@ -5548,7 +5548,7 @@
     "owner": "fofr",
     "name": "image-prompts",
     "description": "Generate image prompts for Midjourney. Prefix inputs with \"Image: \"",
-    "run_count": 14959,
+    "run_count": 14967,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/5a154e95-ab52-434c-b938-9a23b87cd796/FrDAYheWcAA3g4V.png"
   },
   {
@@ -5580,7 +5580,7 @@
     "owner": "nelsonjchen",
     "name": "minigpt-4_vicuna-7b",
     "description": "MiniGPT-4 w/ Vicuna-7B (Image Question/Captioning Use)",
-    "run_count": 7552,
+    "run_count": 7555,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/23a9024c-ec52-4c06-9f7e-27550e8532f3/llama_with_large_realistic_glowin.jpg"
   },
   {
@@ -5596,7 +5596,7 @@
     "owner": "replicate",
     "name": "dreambooth",
     "description": "Train your own custom Stable Diffusion model using a small set of images",
-    "run_count": 210459,
+    "run_count": 211267,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/152ca3b8-91ab-4391-9085-c170ab7ca67e/Screenshot_2022-11-20_at_18.06.41.png"
   },
   {
@@ -5604,7 +5604,7 @@
     "owner": "stability-ai",
     "name": "stablelm-tuned-alpha-7b",
     "description": "7 billion parameter version of Stability AI's language model",
-    "run_count": 90766,
+    "run_count": 90847,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/92491c2c-38f6-4851-98dd-16267326d3a7/mascot.png"
   },
   {
@@ -5620,7 +5620,7 @@
     "owner": "willywongi",
     "name": "donut",
     "description": "Extract structured data from receipt images using Donut 🍩 (Document Understanding Transformer)",
-    "run_count": 1789,
+    "run_count": 1790,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/1e0c5017-bb52-4b51-8618-847dacb3e0b4/2154469547_A_chocolate_gazed_donu.png"
   },
   {
@@ -5660,7 +5660,7 @@
     "owner": "deforum-art",
     "name": "deforum-stable-diffusion",
     "description": "Deforum Stable Diffusion",
-    "run_count": 40013,
+    "run_count": 40027,
     "cover_image_url": null
   },
   {
@@ -5692,7 +5692,7 @@
     "owner": "replicate",
     "name": "oasst-sft-1-pythia-12b",
     "description": "An open source instruction-tuned large language model developed by Open-Assistant",
-    "run_count": 25246,
+    "run_count": 25304,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/67eed8a1-ba88-4251-89b3-a8b05bc225f1/nice-robot.png"
   },
   {
@@ -5708,7 +5708,7 @@
     "owner": "ai-forever",
     "name": "kandinsky-2",
     "description": "text2img model trained on LAION HighRes and fine-tuned on internal datasets",
-    "run_count": 3779589,
+    "run_count": 3785161,
     "cover_image_url": "https://replicate.delivery/pbxt/NsOpfQRos43e40IzSq4SY7NTtxGodmSWo1m74K17SVpoUzuQA/out.png"
   },
   {
@@ -5724,7 +5724,7 @@
     "owner": "prompthero",
     "name": "openjourney-v4",
     "description": "SD 1.5 trained with +124k MJv4 images by PromptHero",
-    "run_count": 13466,
+    "run_count": 13468,
     "cover_image_url": "https://replicate.delivery/pbxt/HmNdwPg2V261PdKEUyQDDSWKEPBhXAaLWee9eLoeY4XiJ6GDB/out-0.png"
   },
   {
@@ -5748,7 +5748,7 @@
     "owner": "replicate",
     "name": "dolly-v2-12b",
     "description": "An open source instruction-tuned large language model developed by Databricks",
-    "run_count": 236436,
+    "run_count": 237024,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/2ea78bde-0d9f-4410-a449-f00210762321/dolly_sheep2.jpg"
   },
   {
@@ -5756,7 +5756,7 @@
     "owner": "rossjillian",
     "name": "controlnet_2-1",
     "description": "ControlNet with SD 2.1",
-    "run_count": 11256,
+    "run_count": 11257,
     "cover_image_url": "https://replicate.delivery/pbxt/pl4m8k9YAqL4JRxV5CgrxQts1LFyvEQiA26fQCXnBthR9uYIA/out-0.png"
   },
   {
@@ -5820,7 +5820,7 @@
     "owner": "wcarle",
     "name": "text2video-zero-openjourney",
     "description": "The Picsart Text2Video-Zero model leverages the power of existing text-to-image synthesis methods (e.g., Stable Diffusion), making them suitable for the video domain.",
-    "run_count": 11559,
+    "run_count": 11561,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/62de9622-d7b2-4e68-8c96-396cfb6b771f/output_dnq2vx7uhvhmlgdvnfywdlig5y.gif"
   },
   {
@@ -5860,7 +5860,7 @@
     "owner": "cjwbw",
     "name": "text2video-zero",
     "description": "Text-to-Image Diffusion Models are Zero-Shot Video Generators",
-    "run_count": 36242,
+    "run_count": 36243,
     "cover_image_url": null
   },
   {
@@ -6028,7 +6028,7 @@
     "owner": "cjwbw",
     "name": "stable-diffusion-2-1-unclip",
     "description": "Stable Diffusion v2-1-unclip Model",
-    "run_count": 1651,
+    "run_count": 1652,
     "cover_image_url": "https://replicate.delivery/pbxt/ixZq1VlmAtpcB5fGVIb8DV3rmw4RYvHO7zmfDx2QEeO0iVWhA/out-0.png"
   },
   {
@@ -6036,7 +6036,7 @@
     "owner": "piyushk52",
     "name": "all-in-one-deflicker",
     "description": null,
-    "run_count": 147,
+    "run_count": 148,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/9203ab5a-3c99-408e-a770-7a1561e1e6e5/Screenshot_2023-04-01_at_1.26.36_.png"
   },
   {
@@ -6044,7 +6044,7 @@
     "owner": "cudanexus",
     "name": "makeittalk",
     "description": "Make any Image Talk. The image must have a human face and should be of dimensions strictly 256x256.",
-    "run_count": 4490,
+    "run_count": 4491,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/0674cdc2-9acf-4d8f-a1a5-44f8aed6741e/Wow-gif.webp"
   },
   {
@@ -6060,7 +6060,7 @@
     "owner": "cjwbw",
     "name": "damo-text-to-video",
     "description": "Multi-stage text-to-video generation",
-    "run_count": 85642,
+    "run_count": 85665,
     "cover_image_url": null
   },
   {
@@ -6092,7 +6092,7 @@
     "owner": "philz1337",
     "name": "controlnet-deliberate",
     "description": "Modify images with canny edge detection and Deliberate model",
-    "run_count": 529340,
+    "run_count": 529694,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/a9714649-a8a4-4956-b2e7-5f9bab135c7d/output_1-8.png"
   },
   {
@@ -6132,7 +6132,7 @@
     "owner": "cloneofsimo",
     "name": "realistic_vision_v1.3",
     "description": null,
-    "run_count": 267927,
+    "run_count": 268196,
     "cover_image_url": "https://replicate.delivery/pbxt/o3tSH9dKjjohIpKgJ4DnkdmUjWBceMnA67fZi67TeZefjBgDC/out-0.png"
   },
   {
@@ -6140,7 +6140,7 @@
     "owner": "cjwbw",
     "name": "dreamshaper",
     "description": "Dream Shaper stable diffusion",
-    "run_count": 966161,
+    "run_count": 966889,
     "cover_image_url": "https://replicate.delivery/pbxt/YxgdzKyEfdRiWCMfxfhAMvBYqbyP3zdufqlikRiuVcTzuwaCB/out-0.png"
   },
   {
@@ -6148,7 +6148,7 @@
     "owner": "daanelson",
     "name": "real-esrgan-a100",
     "description": "Real-ESRGAN for image upscaling on an A100",
-    "run_count": 5251050,
+    "run_count": 5254499,
     "cover_image_url": "https://replicate.delivery/pbxt/lv0iOW3u6DrNOd30ybfmufqWebiuW10YjILw05YZGbeipZZCB/output.png"
   },
   {
@@ -6164,7 +6164,7 @@
     "owner": "andreasjansson",
     "name": "clip-features",
     "description": "Return CLIP features for the clip-vit-large-patch14 model",
-    "run_count": 45645636,
+    "run_count": 45810458,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/21f9d2a0-bb57-4c32-9bee-67784c9d6a76/clip_image.png"
   },
   {
@@ -6172,7 +6172,7 @@
     "owner": "cjwbw",
     "name": "zoedepth",
     "description": "ZoeDepth: Combining relative and metric depth",
-    "run_count": 1921951,
+    "run_count": 1924462,
     "cover_image_url": "https://replicate.delivery/pbxt/Yiy3JvNLmMpkKZhuAamOPUjdFUYn5OIl0xPlu04aTfBpbMSIA/out.png"
   },
   {
@@ -6188,7 +6188,7 @@
     "owner": "jschoormans",
     "name": "rvision-inp-slow",
     "description": "Realistic vision + inpainting + controlnet pose",
-    "run_count": 19281,
+    "run_count": 19282,
     "cover_image_url": "https://replicate.delivery/pbxt/c0NVLss9iGbfOyR2Y2sPz1HO20e9feptcVw10cI2eYuUaSiEC/upscaled.png"
   },
   {
@@ -6196,7 +6196,7 @@
     "owner": "cloneofsimo",
     "name": "lora",
     "description": "LoRA Inference model with Stable Diffusion",
-    "run_count": 98573,
+    "run_count": 98598,
     "cover_image_url": "https://replicate.delivery/pbxt/nySfVHmp27xpO6bGXVwn0LycmGVyveDBSC8OQeRTe7ABAtqBB/out-0.png"
   },
   {
@@ -6284,7 +6284,7 @@
     "owner": "jagilley",
     "name": "free-vc",
     "description": "Change voice for spoken text",
-    "run_count": 38322,
+    "run_count": 38323,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/249e8995-618f-47ff-9408-f861b0297033/out-0.png"
   },
   {
@@ -6300,7 +6300,7 @@
     "owner": "elct9620",
     "name": "pastel-mix",
     "description": "The Pastel Model with highres upscale",
-    "run_count": 18860,
+    "run_count": 18895,
     "cover_image_url": "https://replicate.delivery/pbxt/8DvVHfGUjoVnI6EeWQUDyRajkv1OfmsiOkFsZ1hxiqhTlTDhA/out-0.png"
   },
   {
@@ -6308,7 +6308,7 @@
     "owner": "olegmelnik",
     "name": "deliberate",
     "description": null,
-    "run_count": 35559,
+    "run_count": 35568,
     "cover_image_url": "https://replicate.delivery/pbxt/9xF7d2E9eegXk0s3FA6lx8KQ0JeiAgJNg2mCDAQPtPipBzChA/out-0.png"
   },
   {
@@ -6324,7 +6324,7 @@
     "owner": "jagilley",
     "name": "controlnet",
     "description": "Modify images with a prompt while preserving their structure",
-    "run_count": 48472,
+    "run_count": 48503,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/93b2989d-5823-4a13-86d6-3b5736c601aa/imgonline-com-ua-twotoone-4zTT6VD.png"
   },
   {
@@ -6332,7 +6332,7 @@
     "owner": "jagilley",
     "name": "controlnet-pose",
     "description": "Modify images with humans using pose detection",
-    "run_count": 118393,
+    "run_count": 118475,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/063b88a0-0833-4de2-8016-59ba7894295c/astronaut.png"
   },
   {
@@ -6340,7 +6340,7 @@
     "owner": "jagilley",
     "name": "controlnet-canny",
     "description": "Modify images using canny edge detection",
-    "run_count": 617916,
+    "run_count": 618482,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/788b5c0a-e9ea-4981-ad5d-af038cdedadb/output_0.png"
   },
   {
@@ -6364,7 +6364,7 @@
     "owner": "cjwbw",
     "name": "pastel-mix",
     "description": "high-quality highly detailed anime stylized latent diffusion model",
-    "run_count": 28458,
+    "run_count": 28465,
     "cover_image_url": "https://replicate.delivery/pbxt/pk6T3cRJcv7DP10EfEnbPeEnVxkDZjC4BMBQX2h0LfuGpxAhA/out-0.png"
   },
   {
@@ -6388,7 +6388,7 @@
     "owner": "matt-bornstein",
     "name": "nspm1",
     "description": "Fine-tuned model based on Nick St. Pierre's latest Midjourney model!",
-    "run_count": 2286,
+    "run_count": 2287,
     "cover_image_url": "https://replicate.delivery/pbxt/Lf8Wei3fuXHx9pQ0eYPppfLesMeI95nfne1QNdWLfpNQ8hfAEC/out-3.png"
   },
   {
@@ -6396,7 +6396,7 @@
     "owner": "cjwbw",
     "name": "real-esrgan",
     "description": "Real-ESRGAN: Real-World Blind Super-Resolution",
-    "run_count": 822493,
+    "run_count": 823093,
     "cover_image_url": "https://replicate.delivery/pbxt/r7XfIsf3BuhfMoffJ7VVz1RWIk1PSugrJuHiycl99gfYI1fPIA/out.png"
   },
   {
@@ -6404,7 +6404,7 @@
     "owner": "cjwbw",
     "name": "t2i-adapter",
     "description": "Learning Adapters towards Controllable for Text-to-Image Diffusion Models",
-    "run_count": 2691,
+    "run_count": 2692,
     "cover_image_url": "https://replicate.delivery/pbxt/KlQ9UXTfyR3KPKw2497DmNwra9tr0FqTT7tfecr4gT6oie9BB/out_0.png"
   },
   {
@@ -6420,7 +6420,7 @@
     "owner": "jagilley",
     "name": "controlnet-normal",
     "description": "Modify images using normal maps",
-    "run_count": 211522,
+    "run_count": 212032,
     "cover_image_url": "https://replicate.delivery/pbxt/t5zcnku5zfVSXiXfU3Ao9iAkfU030dm2oVTJzrWHE4UBiNeBB/output_1.png"
   },
   {
@@ -6428,7 +6428,7 @@
     "owner": "jagilley",
     "name": "controlnet-depth2img",
     "description": "Modify images using depth maps",
-    "run_count": 320220,
+    "run_count": 320745,
     "cover_image_url": "https://replicate.delivery/pbxt/CCPUFqXwc2LZF5CVU13C8yPE03ENz9gMdnuvXf7Kb2abzhPIA/output_1.png"
   },
   {
@@ -6444,7 +6444,7 @@
     "owner": "daanelson",
     "name": "plug_and_play_image_translation",
     "description": "Edit an image using features from diffusion models",
-    "run_count": 3797,
+    "run_count": 3799,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/da33dfd3-13cb-4c07-ab55-bcac2db484a7/Screenshot_from_2023-02-12_10-34-.png"
   },
   {
@@ -6452,7 +6452,7 @@
     "owner": "jagilley",
     "name": "controlnet-hough",
     "description": "Modify images using M-LSD line detection",
-    "run_count": 8096080,
+    "run_count": 8098561,
     "cover_image_url": "https://replicate.delivery/pbxt/kfbWmK9LnJRiOqqfOmnYrrbQ4X37kysVlAMllEKManE92aegA/output_1.png"
   },
   {
@@ -6460,7 +6460,7 @@
     "owner": "jagilley",
     "name": "controlnet-seg",
     "description": "Modify images using semantic segmentation",
-    "run_count": 95765,
+    "run_count": 95856,
     "cover_image_url": "https://replicate.delivery/pbxt/YKVetNkuroyWJC4mxzrgvQbJ2vS5eFOS1B8xkJMkAiXMbaegA/output_1.png"
   },
   {
@@ -6484,7 +6484,7 @@
     "owner": "cloneofsimo",
     "name": "lora-training",
     "description": "LoRA model trainer with presets for faces, objects, and styles",
-    "run_count": 17767,
+    "run_count": 17771,
     "cover_image_url": null
   },
   {
@@ -6500,7 +6500,7 @@
     "owner": "jagilley",
     "name": "controlnet-scribble",
     "description": "Generate detailed images from scribbled drawings",
-    "run_count": 32211081,
+    "run_count": 32215671,
     "cover_image_url": "https://replicate.delivery/pbxt/3dbPD8n9bqbDLBZ6PwLbB23NFnmSLV3vhe6XLWpGEcvUODPIA/output_1.png"
   },
   {
@@ -6508,7 +6508,7 @@
     "owner": "jagilley",
     "name": "controlnet-hed",
     "description": "Modify images using HED maps",
-    "run_count": 254604,
+    "run_count": 254844,
     "cover_image_url": "https://replicate.delivery/pbxt/XHe8yQpnaty6FaeFFTYFXUcE3wrnrofAzFyM473DR6DLQH8gA/output_1.png"
   },
   {
@@ -6516,7 +6516,7 @@
     "owner": "andreasjansson",
     "name": "tile-morph",
     "description": "Create tileable animations with seamless transitions",
-    "run_count": 394339,
+    "run_count": 394831,
     "cover_image_url": null
   },
   {
@@ -6548,7 +6548,7 @@
     "owner": "cjwbw",
     "name": "pix2pix-zero",
     "description": "Zero-shot Image-to-Image Translation",
-    "run_count": 3888,
+    "run_count": 3889,
     "cover_image_url": "https://replicate.delivery/pbxt/NZMUartw9GapO9wfD83IDxbaQN1hyA4NspaGcBOj40O0irOIA/reconstruction.png"
   },
   {
@@ -6564,7 +6564,7 @@
     "owner": "pollinations",
     "name": "modnet",
     "description": "A deep learning approach to remove background & adding new background image",
-    "run_count": 392272,
+    "run_count": 392483,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/bb0ab3e4-5efa-446f-939a-23e78f2b82de/output.png"
   },
   {
@@ -6652,7 +6652,7 @@
     "owner": "haoheliu",
     "name": "audio-ldm",
     "description": "Text-to-audio generation with latent diffusion models",
-    "run_count": 27376,
+    "run_count": 27410,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/17f584de-98ae-489c-aea8-fdf366858ad6/640px-Spectrogram-19thC.png"
   },
   {
@@ -6660,7 +6660,7 @@
     "owner": "pollinations",
     "name": "stable-diffusion-dance",
     "description": "Audio Reactive Stable Diffusion",
-    "run_count": 4494,
+    "run_count": 4495,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/f662a98c-4d05-4408-84a5-86ae3b9609c6/ezgif.com-gif-maker_2.gif"
   },
   {
@@ -6668,7 +6668,7 @@
     "owner": "arielreplicate",
     "name": "deoldify_image",
     "description": "Add colours to old images",
-    "run_count": 78020,
+    "run_count": 78084,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/38b752dd-5cc7-4640-9ec1-f1ed32ef6ffd/1.webp"
   },
   {
@@ -6676,7 +6676,7 @@
     "owner": "arielreplicate",
     "name": "deoldify_video",
     "description": "Add colours to old video footage.",
-    "run_count": 2323,
+    "run_count": 2324,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/c605aca8-86dc-47a3-8b81-24d7ba0be0eb/vid.gif"
   },
   {
@@ -6684,7 +6684,7 @@
     "owner": "mbentley124",
     "name": "openjourney-img2img",
     "description": "This is the OpenJourney img2img model",
-    "run_count": 64884,
+    "run_count": 64944,
     "cover_image_url": "https://replicate.delivery/pbxt/p5SEzDoII2qdKVSuxx9Fe1z6qswFfKBRbGn7feov0f3fT3yGE/out-0.png"
   },
   {
@@ -6724,7 +6724,7 @@
     "owner": "pollinations",
     "name": "tune-a-video",
     "description": "About Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
-    "run_count": 2312,
+    "run_count": 2313,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/3da198e0-ffa2-4bf5-8db5-c27fe9aeed72/sample-300.gif"
   },
   {
@@ -6732,7 +6732,7 @@
     "owner": "jagilley",
     "name": "stable-diffusion-depth2img",
     "description": "Create variations of an image while preserving shape and depth",
-    "run_count": 50043,
+    "run_count": 50048,
     "cover_image_url": "https://replicate.delivery/pbxt/7MKZB7KJhVbxL1DKSiDYQ7eInHCKYgBi9zPeKkJbjri14IYQA/out-0.png"
   },
   {
@@ -6756,7 +6756,7 @@
     "owner": "22-hours",
     "name": "vintedois-diffusion",
     "description": "Generate beautiful images with simple prompts",
-    "run_count": 242581,
+    "run_count": 242587,
     "cover_image_url": "https://replicate.delivery/pbxt/j0ALfNdwwfvXG0wLdr69LlpW8TnbuH9M11xZMMWu4GGeqw4gA/out-0.png"
   },
   {
@@ -6764,7 +6764,7 @@
     "owner": "timothybrooks",
     "name": "instruct-pix2pix",
     "description": "Edit images with human instructions",
-    "run_count": 599477,
+    "run_count": 599539,
     "cover_image_url": "https://replicate.delivery/pbxt/kfL8fyBkHllh4kfEJbulrcnzWywUzZ2Fl1GkpXlb4n8xiaugA/out-0.png"
   },
   {
@@ -6780,7 +6780,7 @@
     "owner": "cjwbw",
     "name": "anything-v4.0",
     "description": "high-quality, highly detailed anime-style Stable Diffusion models",
-    "run_count": 1808204,
+    "run_count": 1808615,
     "cover_image_url": "https://replicate.delivery/pbxt/qcrZfAJuW71mNyiN9MZh65WW8LkTKLQHAPtasZdE0RMXxZLIA/out-0.png"
   },
   {
@@ -6788,7 +6788,7 @@
     "owner": "pwntus",
     "name": "stable-diffusion-depth2img",
     "description": "Create variations of an image while preserving shape and depth.",
-    "run_count": 4450,
+    "run_count": 4455,
     "cover_image_url": "https://replicate.delivery/pbxt/o9adZ8mV3s6gGlrYV7eNnMV8OH5pwFKGESWfOHGWErcRRLWQA/out-0.png"
   },
   {
@@ -6796,7 +6796,7 @@
     "owner": "charlesfrye",
     "name": "text-recognizer-gpu",
     "description": "Detects one paragraph of text in an image.",
-    "run_count": 19522,
+    "run_count": 19523,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/2b69ed29-eaf9-4eb0-bc1b-d623f3a5bdd9/fsdl-youtube-banner.png"
   },
   {
@@ -6820,7 +6820,7 @@
     "owner": "cjwbw",
     "name": "anything-v3-better-vae",
     "description": "high-quality, highly detailed anime style stable-diffusion with better VAE",
-    "run_count": 3057094,
+    "run_count": 3057412,
     "cover_image_url": "https://replicate.delivery/pbxt/s7CafGeN2Nle1p4Ij2cjnodU1qFVjzPYhqeYq7hD80G63vRBB/out-0.png"
   },
   {
@@ -6860,7 +6860,7 @@
     "owner": "cjwbw",
     "name": "future-diffusion",
     "description": "Finte-tuned  Stable Diffusion on high quality 3D images with a futuristic Sci-Fi theme",
-    "run_count": 4968,
+    "run_count": 4969,
     "cover_image_url": "https://replicate.delivery/pbxt/brazk2O1f6xpCSqbEmc59fyLkSsB3cOaI0M2aaaHeo0gf1HBB/out-0.png"
   },
   {
@@ -6868,7 +6868,7 @@
     "owner": "andreasjansson",
     "name": "stable-diffusion-inpainting",
     "description": "Inpainting using RunwayML's stable-diffusion-inpainting checkpoint",
-    "run_count": 850403,
+    "run_count": 850499,
     "cover_image_url": "https://replicate.delivery/pbxt/RiurKSg4UNI4D1mwNeFH34k3NNDsxH6yK4m6XbpdEOH05M9HA/out-0.png"
   },
   {
@@ -6884,7 +6884,7 @@
     "owner": "sczhou",
     "name": "lednet",
     "description": "Joint Low-light Enhancement and Deblurring in the Dark",
-    "run_count": 7441,
+    "run_count": 7442,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/f63fd39a-962b-479d-be0c-0a71e71d71b3/002.png"
   },
   {
@@ -6908,7 +6908,7 @@
     "owner": "tstramer",
     "name": "redshift-diffusion",
     "description": null,
-    "run_count": 102652,
+    "run_count": 102659,
     "cover_image_url": "https://replicate.delivery/pbxt/o8FfSTfc8QjGFEe7GRBvfG65WxhndCIknHFDAR8mrcRc8fxfD/out-0.png"
   },
   {
@@ -6932,7 +6932,7 @@
     "owner": "tstramer",
     "name": "mo-di-diffusion",
     "description": null,
-    "run_count": 44430,
+    "run_count": 44432,
     "cover_image_url": "https://replicate.delivery/pbxt/bIWbbbvqXLbfTycr18idOmrZ1wjnswgmzKnlBM7DoxwCV7ePA/out-0.png"
   },
   {
@@ -6940,7 +6940,7 @@
     "owner": "tstramer",
     "name": "midjourney-diffusion",
     "description": null,
-    "run_count": 1190128,
+    "run_count": 1190619,
     "cover_image_url": "https://replicate.delivery/pbxt/XVkw0hyb0moyBllYiKfyGRaJWrXeJSFmRHVZmBwQa3B4GKefA/out-0.png"
   },
   {
@@ -6972,7 +6972,7 @@
     "owner": "tstramer",
     "name": "classic-anim-diffusion",
     "description": null,
-    "run_count": 51983,
+    "run_count": 52008,
     "cover_image_url": "https://replicate.delivery/pbxt/mZUBI4X2tbLRClLj0jU5IkKVykE4gGGw0fapgZMMyDPAaNfPA/out-0.png"
   },
   {
@@ -6988,7 +6988,7 @@
     "owner": "tstramer",
     "name": "arcane-diffusion",
     "description": null,
-    "run_count": 100043,
+    "run_count": 100044,
     "cover_image_url": "https://replicate.delivery/pbxt/x1CKfwEm3OUBda2BRorIZRwaQNMrRNkIFO1uqhX5FXUdT7ePA/out-0.png"
   },
   {
@@ -7012,7 +7012,7 @@
     "owner": "cjwbw",
     "name": "analog-diffusion",
     "description": "a dreambooth model trained on a diverse set of analog photographs",
-    "run_count": 223726,
+    "run_count": 223739,
     "cover_image_url": "https://replicate.delivery/pbxt/SscVjveDe9lQSkkfmoO3gXtO7K3YgU95O00unSi5GV0cPSfAB/out-0.png"
   },
   {
@@ -7108,7 +7108,7 @@
     "owner": "cjwbw",
     "name": "anything-v3.0",
     "description": "high-quality, highly detailed anime style stable-diffusion",
-    "run_count": 335344,
+    "run_count": 335429,
     "cover_image_url": "https://replicate.delivery/pbxt/QoTPURYKznofNysqYberIhfxZiCEcpRTuLBau9cRgnAIaaXgA/out-0.png"
   },
   {
@@ -7124,7 +7124,7 @@
     "owner": "stability-ai",
     "name": "stable-diffusion-img2img",
     "description": "Generate a new image from an input image with Stable Diffusion",
-    "run_count": 825825,
+    "run_count": 826250,
     "cover_image_url": "https://replicate.delivery/pbxt/ql3ndbIRkiZrChA31NxWt7kHMw9GM61lTrrqTIQcgtBI1gBE/out-0.png"
   },
   {
@@ -7164,7 +7164,7 @@
     "owner": "riffusion",
     "name": "riffusion",
     "description": "Stable diffusion for real-time music generation",
-    "run_count": 789027,
+    "run_count": 789041,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/4f67b4e2-4df3-4ce9-9b80-00bbf5a186d8/riffusion.gif"
   },
   {
@@ -7172,7 +7172,7 @@
     "owner": "cjwbw",
     "name": "stable-diffusion-img2img-v2.1",
     "description": null,
-    "run_count": 12360,
+    "run_count": 12361,
     "cover_image_url": "https://replicate.delivery/pbxt/Gum5FegZm90f20g6HCmQCXSU8o3sfIIsWNhjweIu4We0XiSBC/out-0.png"
   },
   {
@@ -7180,7 +7180,7 @@
     "owner": "lambdal",
     "name": "stable-diffusion-image-variation",
     "description": "Image Variations with Stable Diffusion",
-    "run_count": 156435,
+    "run_count": 156490,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/e9d10fb8-f59d-4cc0-9f5c-79178aaa7ab9/im-vars.jpg"
   },
   {
@@ -7212,7 +7212,7 @@
     "owner": "arielreplicate",
     "name": "robust_video_matting",
     "description": "extract foreground of a video",
-    "run_count": 23881,
+    "run_count": 23900,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/1f92fd8f-2b90-4998-b5ae-1e23678ab004/showreel.gif"
   },
   {
@@ -7252,7 +7252,7 @@
     "owner": "prompthero",
     "name": "lookbook",
     "description": "Fashion Diffusion by PromptHero",
-    "run_count": 87475,
+    "run_count": 87507,
     "cover_image_url": "https://replicate.delivery/pbxt/LYci3SkbnCJMKdkjwBEYbXGGnE9x3Mn03xQkaXqq1NRRhACE/out-0.png"
   },
   {
@@ -7276,7 +7276,7 @@
     "owner": "cjwbw",
     "name": "stable-diffusion-v2",
     "description": "sd-v2 with diffusers, test version!",
-    "run_count": 259921,
+    "run_count": 259930,
     "cover_image_url": "https://replicate.delivery/pbxt/Z1qXRKCfPlXuXKl2nhfb3eL3Y1TfqGylycuig9eClEOsi8aAC/out-0.png"
   },
   {
@@ -7284,7 +7284,7 @@
     "owner": "arielreplicate",
     "name": "stable_diffusion2_upscaling",
     "description": "Image super-resolution with stable-diffusion V2",
-    "run_count": 5262,
+    "run_count": 5267,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/f7210b8e-bfe6-4553-ad12-9d4cb470e39e/Screenshot_from_2022-12-02_10-36-.png"
   },
   {
@@ -7292,7 +7292,7 @@
     "owner": "cjwbw",
     "name": "stable-diffusion-v2-inpainting",
     "description": "stable-diffusion-v2-inpainting",
-    "run_count": 14303,
+    "run_count": 14304,
     "cover_image_url": "https://replicate.delivery/pbxt/R0kqaA8PUMarFx2SoelD46bYGO8MwPUx1XiMUdq82YiUv3CIA/out-0.png"
   },
   {
@@ -7300,7 +7300,7 @@
     "owner": "zeke",
     "name": "dogbooth",
     "description": "A DreamBooth model trained using GitHub Actions. Prompt identifier is `dgg`",
-    "run_count": 367,
+    "run_count": 368,
     "cover_image_url": "https://replicate.delivery/pbxt/r2naKsI29b5MC5sDBdkOeL3NurfYa6vMtcqsbVW9yCxvtsFQA/out-0.png"
   },
   {
@@ -7316,7 +7316,7 @@
     "owner": "cjwbw",
     "name": "rembg",
     "description": "remove images background",
-    "run_count": 2223002,
+    "run_count": 2227954,
     "cover_image_url": "https://replicate.delivery/pbxt/2hczaMwD9xrsIR8h3Cl8iYGbHaCdFhIOMZ0LfoYfHlKuuIBQA/out.png"
   },
   {
@@ -7380,7 +7380,7 @@
     "owner": "anotherjesse",
     "name": "sdv2-preview",
     "description": "Stable Diffusion 2.0 Preview",
-    "run_count": 28207,
+    "run_count": 28208,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/c679b562-2dae-444c-a46c-5f5a1edb2b47/out-0.png"
   },
   {
@@ -7436,7 +7436,7 @@
     "owner": "cjwbw",
     "name": "app_icons_generator",
     "description": "App Icons Generator V1 (DreamBooth Model)",
-    "run_count": 1843,
+    "run_count": 1844,
     "cover_image_url": "https://replicate.delivery/pbxt/rtuQT8WkpWZQFRKc9fWONz3ym06DjmqfKycoYC4G2BvBMcCQA/out-0.png"
   },
   {
@@ -7444,7 +7444,7 @@
     "owner": "arielreplicate",
     "name": "infinite_nature",
     "description": "Create a fly by scenery video from a single image",
-    "run_count": 2246,
+    "run_count": 2247,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/1af4d3f2-1850-4e83-907e-81304dd1b4b7/ezgif.com-gif-maker.gif"
   },
   {
@@ -7452,7 +7452,7 @@
     "owner": "m1guelpf",
     "name": "nsfw-filter",
     "description": "Run any image through the Stable Diffusion content filter",
-    "run_count": 347441,
+    "run_count": 348040,
     "cover_image_url": "https://replicate.delivery/pbxt/HopNzJn8F7MbMq47EpzTOubJgxT4N4DWZwb5dWURi885Zm6C/kid.jpeg"
   },
   {
@@ -7516,7 +7516,7 @@
     "owner": "lambdal",
     "name": "sd-naruto-diffusers",
     "description": "Stable Diffusion fine tuned on Naruto",
-    "run_count": 2523,
+    "run_count": 2524,
     "cover_image_url": "https://replicate.delivery/pbxt/8SpyV6FOr8qaFBeoG5MCuH6b1me1cFvixulYllqhSyv52vffA/out-0.png"
   },
   {
@@ -7524,7 +7524,7 @@
     "owner": "tstramer",
     "name": "material-diffusion",
     "description": "Stable diffusion fork for generating tileable outputs using v1.5 model",
-    "run_count": 1255556,
+    "run_count": 1257512,
     "cover_image_url": "https://replicate.delivery/pbxt/XcklpSF1o7Z1I91xQQQHFvJfltWEa3HuQpoeVVTvN7GVJhffA/out-0.png"
   },
   {
@@ -7564,7 +7564,7 @@
     "owner": "nitrosocke",
     "name": "redshift-diffusion",
     "description": "3D artworks on Stable Diffusion via Dreambooth",
-    "run_count": 34025,
+    "run_count": 34026,
     "cover_image_url": "https://replicate.delivery/pbxt/ezdgqSe7QZlsLEDZMzGZ4RERf6SRR981TvxnyQLewh9jfAwfD/out-0.png"
   },
   {
@@ -7580,7 +7580,7 @@
     "owner": "cjwbw",
     "name": "van-gogh-diffusion",
     "description": "Van Gough on Stable Diffusion via Dreambooth",
-    "run_count": 5192,
+    "run_count": 5193,
     "cover_image_url": "https://replicate.delivery/pbxt/gVidGfayGfulGkTWWSGCCpQuA0sjkycleounGgfEoGQQr93fB/out-0.png"
   },
   {
@@ -7628,7 +7628,7 @@
     "owner": "arielreplicate",
     "name": "stable_diffusion_infinite_zoom",
     "description": "Use Runway's Stable-diffusion inpainting model to create an infinite loop video. Inspired by https://twitter.com/matthen2/status/1564608773485895692",
-    "run_count": 28872,
+    "run_count": 28877,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/0d244e1c-0f30-49ee-acb4-6a451c27f82f/infinite_zoom.gif"
   },
   {
@@ -7636,7 +7636,7 @@
     "owner": "andreasjansson",
     "name": "stable-diffusion-animation",
     "description": "Animate Stable Diffusion by interpolating between two prompts",
-    "run_count": 107039,
+    "run_count": 107045,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/9cef4bf5-a2d4-4e75-a409-dc9118fa4f94/Screen_Shot_2022-08-31_at_12.21.4.png"
   },
   {
@@ -7668,7 +7668,7 @@
     "owner": "devxpy",
     "name": "cog-wav2lip",
     "description": null,
-    "run_count": 956927,
+    "run_count": 957615,
     "cover_image_url": null
   },
   {
@@ -7684,7 +7684,7 @@
     "owner": "nitrosocke",
     "name": "arcane-diffusion",
     "description": "Arcane on Stable Diffusion via Dreambooth",
-    "run_count": 33327,
+    "run_count": 33340,
     "cover_image_url": "https://replicate.delivery/pbxt/S3Vuk626HB6jHZOCZfBUx9Pfehj6rZWOZChTVlI1WLmknfqfB/out-0.png"
   },
   {
@@ -7692,7 +7692,7 @@
     "owner": "mv-lab",
     "name": "swin2sr",
     "description": "2.8 Million Runs! AI Photorealistic Image Super-Resolution and Restoration",
-    "run_count": 2973866,
+    "run_count": 2974376,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/aabde67b-bf5c-4fc8-a4bd-8b2dcba60be6/swin2sr-cover3.png"
   },
   {
@@ -7812,7 +7812,7 @@
     "owner": "pschaldenbrand",
     "name": "text2video",
     "description": "Method for generating bizarre looking videos from a series of language descriptions of the video.  From the Bot Intelligence Group at CMU: Peter Schaldenbrand, Zhixuan Liu, & Jean Oh",
-    "run_count": 7348,
+    "run_count": 7349,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/f46ccf8f-7d0f-4f5a-8234-6b16f5b455ed/raven_small.gif"
   },
   {
@@ -7860,7 +7860,7 @@
     "owner": "orpatashnik",
     "name": "styleclip",
     "description": "Text-Driven Manipulation of StyleGAN Imagery",
-    "run_count": 864492,
+    "run_count": 864685,
     "cover_image_url": "https://replicate.delivery/mgxm/4c20b80a-2bd3-4d75-8483-d5b1e2413b08/out.jpg"
   },
   {
@@ -7868,7 +7868,7 @@
     "owner": "bfirsh",
     "name": "segformer-b0-finetuned-ade-512-512",
     "description": null,
-    "run_count": 206826,
+    "run_count": 206860,
     "cover_image_url": "https://replicate.com/api/models/bfirsh/segformer-b0-finetuned-ade-512-512/files/4a2185f1-79c8-4bfd-a1a4-e8591ce58f60/image.png"
   },
   {
@@ -7884,7 +7884,7 @@
     "owner": "cjwbw",
     "name": "waifu-diffusion",
     "description": "Stable Diffusion on Danbooru images",
-    "run_count": 1065156,
+    "run_count": 1065268,
     "cover_image_url": "https://replicate.com/api/models/cjwbw/waifu-diffusion/files/1c8bf05e-f1ed-4ab7-8297-ddc4eaa90935/out-0.png"
   },
   {
@@ -7916,7 +7916,7 @@
     "owner": "bytedance",
     "name": "piano-transcription",
     "description": "high-resolution piano transcription system: detects piano notes from audio",
-    "run_count": 3222,
+    "run_count": 3224,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/6d51e74c-d5bc-438f-8d99-ea4dd889e63b/Screen_Shot_2022-02-22_at_11.36.2.png"
   },
   {
@@ -7932,7 +7932,7 @@
     "owner": "pvitoria",
     "name": "chromagan",
     "description": "An Adversarial Approach for Picture Colorization",
-    "run_count": 69122,
+    "run_count": 69126,
     "cover_image_url": "https://replicate.delivery/mgxm/f73ef115-ab8a-43ab-9beb-ef52b797006e/output.png"
   },
   {
@@ -7980,7 +7980,7 @@
     "owner": "allenhung1025",
     "name": "looptest",
     "description": "Four-bar drum loop generation",
-    "run_count": 47453,
+    "run_count": 47454,
     "cover_image_url": null
   },
   {
@@ -7996,7 +7996,7 @@
     "owner": "longguangwang",
     "name": "arbsr",
     "description": "Scale-Arbitrary Super-Resolution",
-    "run_count": 18442,
+    "run_count": 18447,
     "cover_image_url": "https://replicate.delivery/mgxm/081e33eb-f798-445c-ad39-43962f167758/out.png"
   },
   {
@@ -8004,7 +8004,7 @@
     "owner": "jiupinjia",
     "name": "stylized-neural-painting-oil",
     "description": "Image to oil painting generation",
-    "run_count": 5071,
+    "run_count": 5073,
     "cover_image_url": "https://replicate.delivery/mgxm/7350b737-c4f6-4bef-a4c5-e365a5cd3884/out.gif"
   },
   {
@@ -8012,7 +8012,7 @@
     "owner": "ouhenio",
     "name": "stylegan3-clip",
     "description": "stylegan3 + clip",
-    "run_count": 6495,
+    "run_count": 6496,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/a5c58013-7e65-4f0f-9e07-fba452f16a1f/output.gif"
   },
   {
@@ -8036,7 +8036,7 @@
     "owner": "raoumer",
     "name": "srrescgan",
     "description": "Intelligent image scaling to 4x resolution",
-    "run_count": 34894,
+    "run_count": 34904,
     "cover_image_url": "https://replicate.delivery/mgxm/b110cc62-0c0f-4022-9e9b-465665c10c1d/out.png"
   },
   {
@@ -8044,7 +8044,7 @@
     "owner": "ptran1203",
     "name": "pytorch-animegan",
     "description": "PyTorch implementation of AnimeGAN for fast photo animation",
-    "run_count": 11363,
+    "run_count": 11393,
     "cover_image_url": "https://replicate.delivery/mgxm/cfc9360c-a94c-432f-bb10-5c662d18c1de/out.png"
   },
   {
@@ -8052,7 +8052,7 @@
     "owner": "huage001",
     "name": "adaattn",
     "description": "Arbitrary Neural Style Transfer",
-    "run_count": 45481,
+    "run_count": 45528,
     "cover_image_url": "https://replicate.delivery/mgxm/088e9652-042e-4a67-85c9-98d668ffcbaa/out.png"
   },
   {
@@ -8060,7 +8060,7 @@
     "owner": "codeslake",
     "name": "ifan-defocus-deblur",
     "description": "Removes defocus blur in an image",
-    "run_count": 85708,
+    "run_count": 85729,
     "cover_image_url": "https://replicate.delivery/mgxm/d2d8381b-0c38-4be1-a625-fe84ba63885a/out.png"
   },
   {
@@ -8084,7 +8084,7 @@
     "owner": "jingyunliang",
     "name": "hcflow-sr",
     "description": "Image Super-Resolution",
-    "run_count": 169484,
+    "run_count": 169555,
     "cover_image_url": "https://replicate.delivery/mgxm/88ee0f71-4356-4c77-9af4-58fcd21d3847/out.png"
   },
   {
@@ -8092,7 +8092,7 @@
     "owner": "xinntao",
     "name": "esrgan",
     "description": "Image 4x super-resolution",
-    "run_count": 54798,
+    "run_count": 54817,
     "cover_image_url": "https://replicate.delivery/mgxm/f3d56217-cf86-4bce-8e0f-151ae9578215/out.png"
   },
   {
@@ -8100,7 +8100,7 @@
     "owner": "kyrick",
     "name": "prompt-parrot",
     "description": "Prompt Parrot generates text2image prompts from finetuned distilgpt2",
-    "run_count": 168404,
+    "run_count": 168456,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/fb50cae7-d951-4bc5-a750-32f56cbac42f/parrot2.png"
   },
   {
@@ -8108,7 +8108,7 @@
     "owner": "google-research",
     "name": "frame-interpolation",
     "description": "Frame Interpolation for Large Scene Motion",
-    "run_count": 195478,
+    "run_count": 195526,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/76b830b7-275f-46bf-9cf1-5ad7e7ec4bd4/ezgif-4-738f126aea.gif"
   },
   {
@@ -8124,7 +8124,7 @@
     "owner": "tengfei-wang",
     "name": "hfgi",
     "description": "High-Fidelity GAN Inversion for Image Attribute Editing",
-    "run_count": 20353,
+    "run_count": 20354,
     "cover_image_url": "https://replicate.delivery/mgxm/bd5bccb0-b834-4f03-817b-393c7d30175d/out.png"
   },
   {
@@ -8140,7 +8140,7 @@
     "owner": "yuval-alaluf",
     "name": "restyle_encoder",
     "description": "ReStyle: A Residual-Based StyleGAN Encoder via Iterative Refinement",
-    "run_count": 60306,
+    "run_count": 60337,
     "cover_image_url": "https://replicate.delivery/mgxm/0245cab7-1ed2-40fe-a3b4-e7b81471135f/output.png"
   },
   {
@@ -8148,7 +8148,7 @@
     "owner": "mchong6",
     "name": "jojogan",
     "description": "JoJoGAN: One Shot Face Stylization",
-    "run_count": 63960,
+    "run_count": 63967,
     "cover_image_url": "https://replicate.delivery/mgxm/ea4f0533-01f1-4331-b0f4-410174df5d8e/out.jpg"
   },
   {
@@ -8156,7 +8156,7 @@
     "owner": "rinongal",
     "name": "stylegan-nada",
     "description": "StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators",
-    "run_count": 74613,
+    "run_count": 74616,
     "cover_image_url": "https://replicate.delivery/mgxm/35b6cee8-6416-4dad-bd9e-335252e44959/out.jpg"
   },
   {
@@ -8164,7 +8164,7 @@
     "owner": "cjwbw",
     "name": "rudalle-sr",
     "description": "Real-ESRGAN super-resolution model from ruDALL-E",
-    "run_count": 362320,
+    "run_count": 362363,
     "cover_image_url": "https://replicate.delivery/mgxm/588170af-559f-454e-967d-8fb6c7f8304b/out.png"
   },
   {
@@ -8172,7 +8172,7 @@
     "owner": "meta",
     "name": "detic",
     "description": "Detects any class given class names",
-    "run_count": 22124,
+    "run_count": 22130,
     "cover_image_url": "https://replicate.delivery/mgxm/20b554e3-da67-4c80-ad38-b17b9ca84bb5/out.png"
   },
   {
@@ -8180,7 +8180,7 @@
     "owner": "jingyunliang",
     "name": "swinir",
     "description": "Image Restoration Using Swin Transformer",
-    "run_count": 4762713,
+    "run_count": 4764036,
     "cover_image_url": "https://replicate.delivery/mgxm/1e3c0b87-01a7-4795-abac-aaf17479cf84/out.png"
   },
   {
@@ -8188,7 +8188,7 @@
     "owner": "salesforce",
     "name": "blip",
     "description": "Bootstrapping Language-Image Pre-training",
-    "run_count": 51376381,
+    "run_count": 51396097,
     "cover_image_url": "https://replicate.delivery/mgxm/f4e50a7b-e8ca-432f-8e68-082034ebcc70/demo.jpg"
   },
   {
@@ -8196,7 +8196,7 @@
     "owner": "yangxy",
     "name": "gpen",
     "description": "Blind Face Restoration in the Wild",
-    "run_count": 115863,
+    "run_count": 115887,
     "cover_image_url": "https://replicate.delivery/mgxm/a79d403f-ab71-4a23-a976-59a25341dcb3/out.png"
   },
   {
@@ -8204,7 +8204,7 @@
     "owner": "yuval-alaluf",
     "name": "sam",
     "description": "Only a Matter of Style: Age Transformation Using a Style-Based Regression Model",
-    "run_count": 441241,
+    "run_count": 441567,
     "cover_image_url": "https://replicate.delivery/mgxm/eb97d0ed-1d6c-4460-ba34-0e265a720974/output.gif"
   },
   {
@@ -8212,7 +8212,7 @@
     "owner": "rmokady",
     "name": "clip_prefix_caption",
     "description": "Simple image captioning model using CLIP and GPT-2",
-    "run_count": 1233326,
+    "run_count": 1236118,
     "cover_image_url": "https://replicate.delivery/mgxm/4dc7763a-f234-4a7c-a85f-cb9e05e37cf8/COCO_val2014_000000579664.jpg"
   },
   {
@@ -8228,7 +8228,7 @@
     "owner": "microsoft",
     "name": "bringing-old-photos-back-to-life",
     "description": "Bringing Old Photos Back to Life",
-    "run_count": 654640,
+    "run_count": 654880,
     "cover_image_url": "https://replicate.delivery/mgxm/18b02ad9-ae81-4044-800e-65732df6bdc7/out.png"
   },
   {
@@ -8244,7 +8244,7 @@
     "owner": "m1guelpf",
     "name": "whisper-subtitles",
     "description": "Generate subtitles from an audio file, using OpenAI's Whisper model.",
-    "run_count": 34243,
+    "run_count": 34254,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/6378eee6-393c-4152-b7cf-ee9961bcca96/social.png"
   },
   {
@@ -8252,7 +8252,7 @@
     "owner": "cjwbw",
     "name": "stable-diffusion-high-resolution",
     "description": "Detailed, higher-resolution images from Stable Diffusion",
-    "run_count": 66294,
+    "run_count": 66299,
     "cover_image_url": "https://replicate.com/api/models/cjwbw/stable-diffusion-high-resolution/files/e1b194af-e903-4efb-8bb2-8016b0863507/out.png"
   },
   {
@@ -8268,7 +8268,7 @@
     "owner": "tommoore515",
     "name": "material_stable_diffusion",
     "description": "Stable diffusion fork for generating tileable outputs",
-    "run_count": 348070,
+    "run_count": 348097,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/7efbc363-fa57-41d4-adf8-f1e02b7f1d50/2.png"
   },
   {
@@ -8276,7 +8276,7 @@
     "owner": "cjwbw",
     "name": "clip-vit-large-patch14",
     "description": "openai/clip-vit-large-patch14 with Transformers",
-    "run_count": 2900959,
+    "run_count": 2901624,
     "cover_image_url": "https://replicate.delivery/mgxm/36b04aec-efe2-4dea-9c9d-a5faca68b2b2/000000039769.jpg"
   },
   {
@@ -8316,7 +8316,7 @@
     "owner": "tencentarc",
     "name": "gfpgan",
     "description": "Practical face restoration algorithm for *old photos* or *AI-generated faces*",
-    "run_count": 51537223,
+    "run_count": 51552813,
     "cover_image_url": "https://replicate.delivery/mgxm/85f53415-0dc7-4703-891f-1e6f912119ad/output.png"
   },
   {
@@ -8324,7 +8324,7 @@
     "owner": "xinntao",
     "name": "gfpgan",
     "description": "Practical face restoration algorithm for *old photos* or *AI-generated faces*",
-    "run_count": 1782388,
+    "run_count": 1783437,
     "cover_image_url": "https://replicate.delivery/mgxm/f81248a3-d02a-4194-938b-dba0c6246a14/out.png"
   },
   {
@@ -8332,7 +8332,7 @@
     "owner": "rinnakk",
     "name": "japanese-stable-diffusion",
     "description": "Japanese-specific latent text-to-image diffusion model",
-    "run_count": 2386,
+    "run_count": 2387,
     "cover_image_url": "https://replicate.com/api/models/cjwbw/japanese-stable-diffusion/files/fa193a69-05e6-471f-a8bf-96fe1ed65b1b/out-0.png"
   },
   {
@@ -8356,7 +8356,7 @@
     "owner": "sczhou",
     "name": "codeformer",
     "description": "Robust face restoration algorithm for old photos / AI-generated faces",
-    "run_count": 21757453,
+    "run_count": 21784932,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/7fe190b7-0fca-4abe-8749-0ffd664c1b22/012.png"
   },
   {
@@ -8364,7 +8364,7 @@
     "owner": "nateraw",
     "name": "stable-diffusion-videos",
     "description": "Generate videos by interpolating the latent space of Stable Diffusion",
-    "run_count": 52775,
+    "run_count": 52782,
     "cover_image_url": null
   },
   {
@@ -8372,7 +8372,7 @@
     "owner": "xinntao",
     "name": "realesrgan",
     "description": "Practical Image Restoration Algorithms for General/Anime Images",
-    "run_count": 2657857,
+    "run_count": 2659054,
     "cover_image_url": "https://replicate.delivery/mgxm/64bfb221-6b36-4e5d-8f81-77d7b2adecf9/out..jpg"
   },
   {
@@ -8388,7 +8388,7 @@
     "owner": "deforum",
     "name": "deforum_stable_diffusion",
     "description": "Animating prompts with stable diffusion",
-    "run_count": 182659,
+    "run_count": 182700,
     "cover_image_url": null
   },
   {
@@ -8396,7 +8396,7 @@
     "owner": "xpixelgroup",
     "name": "hat",
     "description": "Activating More Pixels in Image Super-Resolution Transformer",
-    "run_count": 20003,
+    "run_count": 20007,
     "cover_image_url": "https://replicate.delivery/mgxm/83101122-3778-41ff-80be-4f7a1a59b727/output.png"
   },
   {
@@ -8468,7 +8468,7 @@
     "owner": "methexis-inc",
     "name": "img2prompt",
     "description": "Get an approximate text prompt, with style, matching an image.  (Optimized for stable-diffusion (clip ViT-L/14))",
-    "run_count": 1947284,
+    "run_count": 1948231,
     "cover_image_url": "https://replicate.delivery/mgxm/8b4d747d-feca-477d-8069-ee4d5f89ad8e/a_high_detail_shot_of_a_cat_wearing_a_suit_realism_8k_-n_9_.png"
   },
   {
@@ -8524,7 +8524,7 @@
     "owner": "cjwbw",
     "name": "style-your-hair",
     "description": "Pose-Invariant Hairstyle Transfer",
-    "run_count": 6390,
+    "run_count": 6398,
     "cover_image_url": "https://replicate.delivery/mgxm/c9f54dd4-66fe-4379-b9e5-64e29fb5827d/output.png"
   },
   {
@@ -8548,7 +8548,7 @@
     "owner": "afiaka87",
     "name": "retrieval-augmented-diffusion",
     "description": "Generate 768px images from text using CompVis `retrieval-augmented-diffusion`",
-    "run_count": 37364,
+    "run_count": 37365,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/e5d5b50b-0182-4379-aef6-4ad6da8bd8c5/astrohorse.png"
   },
   {
@@ -8572,7 +8572,7 @@
     "owner": "cjwbw",
     "name": "night-enhancement",
     "description": "Unsupervised Night Image Enhancement",
-    "run_count": 19372,
+    "run_count": 19375,
     "cover_image_url": "https://replicate.delivery/mgxm/60c4c0d8-c82f-42e0-96ee-71392d32b6fe/output.png"
   },
   {
@@ -8636,7 +8636,7 @@
     "owner": "nightmareai",
     "name": "latent-viz",
     "description": "Visualize the encoded latents of an image",
-    "run_count": 63252,
+    "run_count": 63261,
     "cover_image_url": "https://replicate.delivery/mgxm/01fafc3e-3436-49ba-a8ce-57766a2b2f43/0-latent-3.png"
   },
   {
@@ -8644,7 +8644,7 @@
     "owner": "laion-ai",
     "name": "ongo",
     "description": "Generate a painting using text.",
-    "run_count": 125781,
+    "run_count": 125844,
     "cover_image_url": "https://replicate.delivery/mgxm/9696c825-c8b3-4940-ab70-0717af035d9d/current_2.png"
   },
   {
@@ -8652,7 +8652,7 @@
     "owner": "laion-ai",
     "name": "erlich",
     "description": "Generate a logo using text.",
-    "run_count": 320048,
+    "run_count": 320077,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/6371bff8-c3ae-43cb-9f8f-ed6d363d12c8/lvzj.png"
   },
   {
@@ -8692,7 +8692,7 @@
     "owner": "cjwbw",
     "name": "bigcolor",
     "description": "Colorization using a Generative Color Prior for Natural Images",
-    "run_count": 249458,
+    "run_count": 249542,
     "cover_image_url": "https://replicate.delivery/mgxm/7c716bfc-2b84-4192-9127-0d58e187011c/output.png"
   },
   {
@@ -8708,7 +8708,7 @@
     "owner": "cjwbw",
     "name": "vqfr",
     "description": "Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder",
-    "run_count": 97363,
+    "run_count": 97396,
     "cover_image_url": "https://replicate.delivery/mgxm/bc7a348f-60f5-40fb-89e4-ed3dd250cb31/output_0.png"
   },
   {
@@ -8716,7 +8716,7 @@
     "owner": "cjwbw",
     "name": "diffae",
     "description": "Image Manipulatinon with Diffusion Autoencoders",
-    "run_count": 12873,
+    "run_count": 12874,
     "cover_image_url": "https://replicate.delivery/mgxm/a174e57b-1fdf-40b7-8132-3307a7a8d6c0/manipulated_img.png"
   },
   {
@@ -8732,7 +8732,7 @@
     "owner": "afiaka87",
     "name": "tortoise-tts",
     "description": "Generate speech from text, clone voices from mp3 files. From James Betker AKA \"neonbjb\".",
-    "run_count": 114617,
+    "run_count": 114689,
     "cover_image_url": null
   },
   {
@@ -8740,7 +8740,7 @@
     "owner": "tencentarc",
     "name": "vqfr",
     "description": "Blind Face Restoration with Vector-Quantized Dictionary and Parallel Decoder",
-    "run_count": 76596,
+    "run_count": 76609,
     "cover_image_url": "https://replicate.delivery/mgxm/1efed0ec-ff65-45bf-81a3-77018c870485/output.png"
   },
   {
@@ -8772,7 +8772,7 @@
     "owner": "nightmareai",
     "name": "disco-diffusion",
     "description": "Generate images using a variety of techniques - Powered by Discoart",
-    "run_count": 63052,
+    "run_count": 63053,
     "cover_image_url": "https://replicate.delivery/mgxm/eb8dc56a-1e37-4e6a-8fd7-51ad12b399f5/ba70ca3b-8ed1-4ac4-a09f-3cc046dd3dea0_0.png"
   },
   {
@@ -8788,7 +8788,7 @@
     "owner": "nightmareai",
     "name": "cogvideo",
     "description": "Text-to-video generation",
-    "run_count": 30640,
+    "run_count": 30641,
     "cover_image_url": "https://replicate.delivery/mgxm/6c3a4e36-2332-4280-a506-a4bfd4197f7b/0.gif"
   },
   {
@@ -8820,7 +8820,7 @@
     "owner": "nightmareai",
     "name": "latent-sr",
     "description": "Upscale images with the latent diffusion superresolution model",
-    "run_count": 104886,
+    "run_count": 104910,
     "cover_image_url": "https://replicate.delivery/mgxm/62ca1b90-9ec2-4303-94f0-92206ea75459/tmpmtljfr8t.png"
   },
   {
@@ -8852,7 +8852,7 @@
     "owner": "laion-ai",
     "name": "puck",
     "description": "Generate retro videogame art using text.",
-    "run_count": 3529,
+    "run_count": 3530,
     "cover_image_url": "https://replicate.delivery/mgxm/5ef2ef46-2b65-4c38-bc68-79d620de1b82/current_5.png"
   },
   {
@@ -8860,7 +8860,7 @@
     "owner": "wyhsirius",
     "name": "lia",
     "description": "Learning to Animate Images via Latent Space Navigation",
-    "run_count": 11888,
+    "run_count": 11891,
     "cover_image_url": null
   },
   {
@@ -8900,7 +8900,7 @@
     "owner": "storymy",
     "name": "take-off-eyeglasses",
     "description": "Remove eyeglasses and shadows from photo",
-    "run_count": 9508,
+    "run_count": 9522,
     "cover_image_url": "https://replicate.delivery/mgxm/a3e386e9-e6af-42da-b667-d7c65e55573c/output.png"
   },
   {
@@ -8924,7 +8924,7 @@
     "owner": "nightmareai",
     "name": "real-esrgan",
     "description": "Real-ESRGAN with optional face correction and adjustable upscale",
-    "run_count": 22101145,
+    "run_count": 22134361,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/90563818-e1bc-4585-a626-62b5ab5ff22d/ApplicationFrameHost_3Bs5DdjGnX.png"
   },
   {
@@ -8932,7 +8932,7 @@
     "owner": "wzx0826",
     "name": "lbnet",
     "description": "Lightweight Bimodal Network for Single-Image Super-Resolution via Symmetric CNN and Recursive Transformer",
-    "run_count": 6246,
+    "run_count": 6247,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/06ecbea7-9fb0-4bd3-81d7-812b027cbfc3/zebracover.png"
   },
   {
@@ -8964,7 +8964,7 @@
     "owner": "nicholascelestin",
     "name": "dalle-mega",
     "description": "Made public only for API calls. Use min-dalle instead-- it's superior.",
-    "run_count": 11917,
+    "run_count": 11918,
     "cover_image_url": "https://replicate.delivery/mgxm/4c5b72c5-1ad7-4470-bd20-32f0a38c2299/b99bcb06-326a-4262-8070-9980429bd3ad.png"
   },
   {
@@ -8972,7 +8972,7 @@
     "owner": "borisdayma",
     "name": "dalle-mini",
     "description": "Generate images from a text prompt",
-    "run_count": 57013,
+    "run_count": 57015,
     "cover_image_url": "https://replicate.delivery/mgxm/a4eb1c1c-0c24-4b7a-b811-16c9073a975c/output_8.png"
   },
   {
@@ -8996,7 +8996,7 @@
     "owner": "j-min",
     "name": "clip-caption-reward",
     "description": "Fine-grained Image Captioning with CLIP Reward",
-    "run_count": 278480,
+    "run_count": 278484,
     "cover_image_url": "https://replicate.delivery/mgxm/d452ef45-ce7e-4f8d-a63f-350d624fc95a/COCO_val2014_000000462565.jpeg"
   },
   {
@@ -9036,7 +9036,7 @@
     "owner": "sujaykhandekar",
     "name": "object-removal",
     "description": "Removes specified objects from image",
-    "run_count": 7977,
+    "run_count": 7980,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/dd966190-cf47-44f5-89db-1dddc6bf17c6/object-removal.jpg"
   },
   {
@@ -9060,7 +9060,7 @@
     "owner": "pixray",
     "name": "text2image",
     "description": "Uses pixray to generate an image from text prompt",
-    "run_count": 1392991,
+    "run_count": 1393048,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/5167abcc-2dfc-427a-8b60-9c7abba7c429/replicate-prediction-bpmogp2wprab.png"
   },
   {
@@ -9084,7 +9084,7 @@
     "owner": "replicate",
     "name": "resnet",
     "description": "Classifies images with ResNet-50",
-    "run_count": 6310,
+    "run_count": 6311,
     "cover_image_url": "https://replicate.delivery/mgxm/64ae6640-b109-4484-9c45-2e6bae918f56/cat.jpg"
   },
   {
@@ -9092,7 +9092,7 @@
     "owner": "yoyo-nb",
     "name": "thin-plate-spline-motion-model",
     "description": "Thin-Plate Spline Motion Model for Image Animation",
-    "run_count": 311894,
+    "run_count": 312005,
     "cover_image_url": null
   },
   {
@@ -9108,7 +9108,7 @@
     "owner": "phamquiluan",
     "name": "facial-expression-recognition",
     "description": "Facial Expression Recognition using Residual Masking Network",
-    "run_count": 10986,
+    "run_count": 10989,
     "cover_image_url": "https://replicate.delivery/mgxm/70224ed0-fc2a-45cb-af5a-d28a4e596523/image.jpg"
   },
   {
@@ -9180,7 +9180,7 @@
     "owner": "megvii-research",
     "name": "nafnet",
     "description": "Nonlinear Activation Free Network for Image Restoration",
-    "run_count": 251668,
+    "run_count": 252151,
     "cover_image_url": "https://replicate.delivery/mgxm/60bdfe42-b179-40fb-81b0-fa3ec0090aea/output.png"
   },
   {
@@ -9188,7 +9188,7 @@
     "owner": "replicate",
     "name": "hello-world",
     "description": "A tiny model that says hello",
-    "run_count": 6651578,
+    "run_count": 6656488,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/9c1f748e-a9fc-4cfd-a497-68262ee6151a/replicate-prediction-caujujsgrng7.png"
   },
   {
@@ -9196,7 +9196,7 @@
     "owner": "retrocirce",
     "name": "zero_shot_audio_source_separation",
     "description": "Zero shot Sound separation by arbitrary query samples",
-    "run_count": 8659,
+    "run_count": 8661,
     "cover_image_url": null
   },
   {
@@ -9204,7 +9204,7 @@
     "owner": "google-research",
     "name": "maxim",
     "description": "Multi-Axis MLP for Image Processing",
-    "run_count": 288030,
+    "run_count": 288093,
     "cover_image_url": "https://replicate.delivery/mgxm/716ffa94-41f7-46b4-a2f0-287f0e907f9c/output.png"
   },
   {
@@ -9220,7 +9220,7 @@
     "owner": "codeslake",
     "name": "refvsr-cvpr2022",
     "description": "Super-resolves an LR video frame (ultra-wide) using a reference video frame (wide-angle)",
-    "run_count": 11920,
+    "run_count": 11928,
     "cover_image_url": "https://tjzk.replicate.delivery/models_models_cover_image/36dc8d51-10f8-461e-9684-dc98ed8da1b7/RefVSR_teaser_cvpr.gif"
   },
   {
@@ -9244,7 +9244,7 @@
     "owner": "pixray",
     "name": "api",
     "description": "bare pixray for API use",
-    "run_count": 11415,
+    "run_count": 11416,
     "cover_image_url": "https://replicate.delivery/mgxm/0195547c-b501-49ba-96b8-f000f957a587/tempfile.png"
   },
   {
@@ -9252,7 +9252,7 @@
     "owner": "wty-ustc",
     "name": "hairclip",
     "description": "Design Your Hair by Text and Reference Image",
-    "run_count": 44091,
+    "run_count": 44102,
     "cover_image_url": "https://replicate.delivery/mgxm/2c45bef1-b58b-4b00-a413-fac0072e14ca/output.png"
   },
   {
@@ -9292,7 +9292,7 @@
     "owner": "paper11667",
     "name": "clipstyler",
     "description": "Image Style Transfer with Text Condition",
-    "run_count": 17972,
+    "run_count": 17978,
     "cover_image_url": "https://replicate.delivery/mgxm/59d6234b-3662-429d-93ba-637d849f1383/out.png"
   },
   {
@@ -9364,7 +9364,7 @@
     "owner": "salesforce",
     "name": "albef",
     "description": "Grad-CAM visualizations for Align before Fuse",
-    "run_count": 2377,
+    "run_count": 2380,
     "cover_image_url": "https://replicate.delivery/mgxm/689cc579-5421-4737-96cb-8291d9d71a75/output.png"
   },
   {
