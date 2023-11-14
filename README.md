@@ -8,7 +8,7 @@ Metadata for all the public models on Replicate, bundled up into an npm package.
 npm install all-the-public-replicate-models
 ```
 
-## Usage
+## Usage (as a library)
 
 Full-bodied usage (all the metadata, ~17MB)
 
@@ -34,4 +34,18 @@ import {chain} from 'lodash-es'
 
 const mostRun = chain(models).orderBy('run_count', 'desc').take(10).value()
 console.log({mostRun})
+```
+
+## Usage (as a CLI)
+
+The CLI dumps the model metadata to standard output as a big JSON object:
+
+```
+$ npx all-the-public-replicate-repos
+
+[
+  {...},
+  {...},
+  {...},
+]
 ```
