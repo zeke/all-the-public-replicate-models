@@ -1,7 +1,7 @@
-
 import { readFile } from 'fs/promises';
-
-const models = JSON.parse(await readFile('./models.json', 'utf8'));
-
+import { dirname, join } from 'path';
+import { fileURLToPath } from 'url';
+const __dirname = dirname(fileURLToPath(import.meta.url));
+const models = JSON.parse(await readFile(join(__dirname, 'models.json'), 'utf8'));
 
 export default models;
