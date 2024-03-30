@@ -1,7 +1,7 @@
 {
   "name": "all-the-public-replicate-models",
   "description": "Metadata for all the public models on Replicate, bundled up into an npm package",
-  "version": "1.155.0",
+  "version": "1.156.0",
   "devDependencies": {
     "chai": "^4.3.10",
     "lodash-es": "^4.17.21",
