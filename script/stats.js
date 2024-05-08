@@ -73,6 +73,43 @@ async function compareAndGenerateMD() {
         markdownContent += 'No active models today.\n';
     }
 
+    // Top Model Authors
+    markdownContent += '\n## Top Model Authors by Run Count\n';
+    const modelsByOwner = newModels.reduce((acc, model) => {
+        if (!acc[model.owner]) {
+            acc[model.owner] = [];
+        }
+        acc[model.owner].push(model);
+        return acc;
+    }, {});
+
+    const topAuthors = Object.entries(modelsByOwner).map(([owner, models]) => ({
+        owner,
+        modelCount: models.length,
+        totalRuns: models.reduce((sum, model) => sum + model.run_count, 0),
+    })).sort((a, b) => b.totalRuns - a.totalRuns).slice(0, 30);
+
+
+    markdownContent += '| Author | Models | Total Runs |\n|--------|--------|------------|\n';
+    for (const author of topAuthors) {
+        const ownerUrl = `https://replicate.com/${author.owner}`;
+        markdownContent += `| [${author.owner}](${ownerUrl}) | ${author.modelCount} | ${author.totalRuns} |\n`;
+    }
+
+
+    // Top Model Authors by Model Count
+    markdownContent += '\n## Top Model Authors by Model Count\n';
+    const authorsByModelCount = Object.entries(modelsByOwner).map(([owner, models]) => ({
+        owner,
+        modelCount: models.length,
+    })).sort((a, b) => b.modelCount - a.modelCount).slice(0, 30);
+
+    markdownContent += '| Author | Model Count |\n|--------|-------------|\n';
+    for (const author of authorsByModelCount) {
+        const ownerUrl = `https://replicate.com/${author.owner}`;
+        markdownContent += `| [${author.owner}](${ownerUrl}) | ${author.modelCount} |\n`;
+    }
+
     // Write to stats.md
     await fs.writeFile('stats.md', markdownContent);
 }
