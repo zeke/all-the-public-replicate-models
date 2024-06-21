@@ -1,6 +1,7 @@
 # all-the-public-replicate-models
 
-Metadata for all the public models on Replicate, bundled up into an npm package.
+Metadata for all[^1] the public models on Replicate, bundled up into an npm package.
+
 
 ## Installation
 
@@ -74,3 +75,5 @@ Or you can dump all the model data to a file:
 ```command
 npx all-the-public-replicate-models > models.json
 ```
+
+[^1]: Technically it's not _all_ the models, but every model that is public, has at least one published version, and has at least one example prediction.
