@@ -26,7 +26,8 @@ async function main () {
       name: model.name,
       description: model.description,
       run_count: model.run_count,
-      cover_image_url: model.cover_image_url
+      cover_image_url: model.cover_image_url,
+      github_url: model.github_url
     }
   });
 
